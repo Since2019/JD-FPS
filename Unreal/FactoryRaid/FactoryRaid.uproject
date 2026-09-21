@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "Classic industrial factory offline extraction game",
+  "Plugins": [
+    {"Name": "PythonScriptPlugin", "Enabled": true},
+    {"Name": "EditorScriptingUtilities", "Enabled": true},
+    {"Name": "EnhancedInput", "Enabled": true},
+    {"Name": "GameplayStateTree", "Enabled": true},
+    {"Name": "SequencerScripting", "Enabled": true}
+  ]
+}

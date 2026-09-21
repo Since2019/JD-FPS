@@ -1,0 +1,212 @@
+"""Editor-PIE gameplay extension. Uses UE collision, characters and weapon blueprints.
+
+This is deliberately kept separate from the uncompiled native game module. It is
+not a shipping-runtime Python plugin and must be started by play_tactical.py.
+"""
+import unreal as u
+import math, random
+
+def length(v):return math.sqrt(v.x*v.x+v.y*v.y+v.z*v.z)
+def dot(a,b):return a.x*b.x+a.y*b.y+a.z*b.z
+def unit(v):return v/max(length(v),.0001)
+def lerp(a,b,t):return a+(b-a)*min(1,max(0,t))
+def valid(obj):return obj is not None and u.SystemLibrary.is_valid(obj)
+def prop(obj,name,default=None):
+    try:return obj.get_editor_property(name)
+    except Exception:return default
+def vec_copy(v):return u.Vector(v.x,v.y,v.z)
+def input_key(name):
+    key=u.Key();key.set_editor_property('key_name',name);return key
+
+class TacticalSession:
+    def __init__(self,world,player,test=False):
+        self.world=world;self.player=player;self.pc=player.get_controller();self.test=test
+        self.clock=0.;self.lean=0.;self.ads=0.;self.previous=set();self.pack=[];self.inventory=False
+        self.search=None;self.search_time=0.;self.search_origin=None;self.focus=None
+        self.message='';self.message_until=0.;self.hud_time=0.;self.ai_time=0.;self.kills=0
+        self.ai_enabled=True;self.ai_damage_enabled=True;self.shots_fired=0
+        self.input_keys={name:input_key(name) for name in ['Q','E','RightMouseButton','F','Tab','LeftShift','LeftMouseButton']}
+        self.camera=next(c for c in player.get_components_by_class(u.CameraComponent) if 'FirstPerson' in c.get_name())
+        self.camera_origin=vec_copy(self.camera.get_editor_property('relative_location'))
+        self.camera.use_pawn_control_rotation=False
+        self.fp_mesh=next((c for c in player.get_components_by_class(u.SkeletalMeshComponent) if 'FirstPerson' in c.get_name()),None)
+        self.anim=None
+        for mesh in player.get_components_by_class(u.SkeletalMeshComponent):
+            inst=mesh.get_anim_instance()
+            if inst and prop(inst,'Is Aiming') is not None:self.anim=inst;break
+        self.anim_has_ads=False
+        if self.anim:
+            try:self.anim.set_editor_property('Is Aiming',False);self.anim_has_ads=True
+            except Exception:pass
+        self.player.character_movement.max_walk_speed=290
+        self.player.character_movement.max_acceleration=950
+        self.player.character_movement.braking_deceleration_walking=750
+        self.weapon=prop(player,'Current Weapon')
+        if not self.weapon:
+            rifle=u.load_class(None,'/Game/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_Rifle.BP_ShooterWeapon_Rifle_C')
+            player.call_method('Add Weapon Class',args=(rifle,))
+            self.weapon=prop(player,'Current Weapon')
+        # Equipping the rifle replaces the copy-pose anim instance with its weapon rig.
+        if self.fp_mesh:
+            aiming_class=u.load_class(None,'/Game/Factory/Animation/ABP_TacticalWeapon.ABP_TacticalWeapon_C')
+            if aiming_class:self.fp_mesh.set_anim_instance_class(aiming_class)
+            self.anim=self.fp_mesh.get_anim_instance()
+            if prop(self.anim,'Is Aiming') is not None:
+                self.anim.set_editor_property('Is Aiming',False)
+                self.anim_has_ads=True
+        all_actors=u.GameplayStatics.get_all_actors_of_class(world,u.Actor)
+        self.boxes=[];self.enemies=[];self.box_lids=[]
+        for actor in all_actors:
+            if actor.actor_has_tag('Loot'):
+                tags=[str(t) for t in actor.tags]
+                self.boxes.append({'actor':actor,'item':tags[2] if len(tags)>2 else '物资','searched':False,'title':actor.get_actor_label().replace('Loot | ','')})
+            if actor.actor_has_tag('FactoryEnemy') or actor.get_class().get_name()=='BP_ShooterNPC_C':
+                controller=actor.get_controller()
+                if controller:
+                    brain=prop(controller,'brain_component')
+                    if brain:brain.stop_logic('Factory tactical local controller')
+                    controller.stop_movement() if hasattr(controller,'stop_movement') else None
+                self.enemies.append({'actor':actor,'home':vec_copy(actor.get_actor_location()),'last':None,'alert':0.,'next_fire':3.+len(self.enemies)*.3,'dead':False,'side':1})
+            if isinstance(actor,u.StaticMeshActor) and '箱盖' in actor.get_actor_label():self.box_lids.append(actor)
+        self.add_item('医疗包',2,1,.6)
+        self.say('Q / E 侧倾 · 右键瞄准 · 按住 F 搜索 · Tab 背包',8)
+
+    def say(self,text,seconds=2):self.message=text;self.message_until=self.clock+seconds
+    def ignored(self):return [a for a in [self.player,prop(self.player,'Current Weapon')] if valid(a)]
+    def trace(self,start,end,ignore=None,radius=0):
+        args=(self.world,start,end)
+        if radius:
+            return u.SystemLibrary.sphere_trace_single(*args,radius,u.TraceTypeQuery.TRACE_TYPE_QUERY1,False,ignore or self.ignored(),u.DrawDebugTrace.NONE)
+        return u.SystemLibrary.line_trace_single(*args,u.TraceTypeQuery.TRACE_TYPE_QUERY1,False,ignore or self.ignored(),u.DrawDebugTrace.NONE)
+    def hit_actor(self,hit):return u.get_default_object(u.GameplayStatics).call_method('BreakHitResult',args=(hit,))[9] if hit else None
+    def hit_point(self,hit):return u.get_default_object(u.GameplayStatics).call_method('BreakHitResult',args=(hit,))[5] if hit else None
+    def keys(self):
+        return {name for name,key in self.input_keys.items() if self.pc.is_input_key_down(key)}
+
+    def update_camera(self,dt,keys):
+        want_aim='RightMouseButton' in keys and not self.inventory and self.search is None
+        self.ads=lerp(self.ads,1. if want_aim else 0.,dt*8)
+        target=(int('E' in keys)-int('Q' in keys))*22. if not self.inventory else 0.
+        root=self.player.get_actor_location();rot=self.player.get_actor_rotation()
+        right=u.MathLibrary.get_right_vector(u.Rotator(0,rot.yaw,0))
+        parent=self.camera.get_attach_parent()
+        base=parent.get_socket_transform(self.camera.get_attach_socket_name(),u.RelativeTransformSpace.RTS_WORLD).transform_location(self.camera_origin)
+        obstruction=self.trace(base,base+right*target,radius=9) if abs(target)>.1 else None
+        if obstruction:target=0.
+        self.lean=lerp(self.lean,target,dt*12)
+        self.camera.set_world_location(base+right*self.lean,False,True)
+        view=self.pc.get_control_rotation()
+        self.camera.set_world_rotation(u.Rotator(pitch=view.pitch,yaw=view.yaw,roll=-self.lean*.40),False,True)
+        self.camera.set_field_of_view(lerp(90.,58.,self.ads))
+        if self.anim_has_ads:self.anim.set_editor_property('Is Aiming',want_aim)
+        # The template uses a separate first-person projection for hands and weapon.
+        self.camera.set_first_person_field_of_view(lerp(70.,55.,self.ads))
+        self.player.character_movement.max_walk_speed=175 if want_aim else 480 if 'LeftShift' in keys else 290
+
+    def target_box(self):
+        eye=self.camera.get_world_location();forward=self.camera.get_forward_vector();best=None;distance=210.
+        for box in self.boxes:
+            if box['searched'] or not valid(box['actor']):continue
+            pos=box['actor'].get_actor_location();delta=pos-eye;d=length(delta)
+            if d>=distance or dot(unit(delta),forward)<.86:continue
+            hit=self.trace(eye,pos)
+            # Containers themselves block traces. Only accept their immediate surface.
+            if hit and length(self.hit_point(hit)-pos)>65:continue
+            best=box;distance=d
+        return best
+
+    def add_item(self,name,w=1,h=1,kg=.3):
+        for y in range(6-h):
+            for x in range(7-w):
+                if any(x<i['x']+i['w'] and x+w>i['x'] and y<i['y']+i['h'] and y+h>i['y'] for i in self.pack):continue
+                self.pack.append({'name':name,'x':x,'y':y,'w':w,'h':h,'kg':kg});return True
+        return False
+
+    def update_search(self,dt,keys):
+        self.focus=self.target_box()
+        if self.inventory or 'F' not in keys or self.focus is None:
+            self.search=None;self.search_time=0;return
+        if self.search is not self.focus:
+            self.search=self.focus;self.search_time=0;self.search_origin=vec_copy(self.player.get_actor_location())
+        if length(self.player.get_actor_location()-self.search_origin)>25:
+            self.search=None;self.search_time=0;self.say('移动已中断搜索');return
+        self.search_time+=dt
+        if self.search_time<2.:return
+        box=self.search;item=box['item'];w,h,kg=(2,2,2.2) if item=='电钻' else (2,1,.6) if item=='医疗包' else (1,1,.3)
+        if self.add_item(item,w,h,kg):
+            box['searched']=True;self.say('获得：'+item,4)
+            box['actor'].tags=list(box['actor'].tags)+[u.Name('Searched')]
+            for lid in self.box_lids:
+                if length(lid.get_actor_location()-box['actor'].get_actor_location())<85:
+                    lid.static_mesh_component.set_mobility(u.ComponentMobility.MOVABLE)
+                    lid.set_actor_rotation(u.Rotator(-70,0,0),False)
+                    break
+        else:self.say('背包已满，箱内物资保留',3)
+        self.search=None;self.search_time=0
+
+    def update_ai(self,dt):
+        if not self.ai_enabled:return
+        player_pos=self.player.get_actor_location();player_eye=self.camera.get_world_location()
+        for index,entry in enumerate(self.enemies):
+            npc=entry['actor']
+            if not valid(npc) or npc.actor_has_tag('Dead') or prop(npc,'Current HP',1)<=0:
+                if not entry['dead']:entry['dead']=True;self.kills+=1
+                continue
+            pos=npc.get_actor_location();eye=pos+u.Vector(0,0,60);delta=player_eye-eye;distance=length(delta)
+            weapon=prop(npc,'Weapon');ignore=[a for a in [npc,weapon] if valid(a)]
+            hit=self.trace(eye,player_eye,ignore)
+            visible=distance<2300 and (hit is None or self.hit_actor(hit)==self.player)
+            if visible:entry['last']=vec_copy(player_pos);entry['alert']=self.clock+7
+            elif distance<2400 and self.pc.is_input_key_down(self.input_keys['LeftMouseButton']):
+                entry['last']=vec_copy(player_pos);entry['alert']=self.clock+5
+            active=entry['alert']>self.clock and entry['last'] is not None
+            destination=entry['last'] if active else entry['home']+u.Vector(math.sin(self.clock*.17+index)*180,math.cos(self.clock*.17+index)*180,0)
+            direction=unit(u.Vector(destination.x-pos.x,destination.y-pos.y,0))
+            look=u.MathLibrary.find_look_at_rotation(eye,player_eye if visible else destination+u.Vector(0,0,60))
+            npc.set_actor_rotation(u.Rotator(0,look.yaw,0),False)
+            controller=npc.get_controller()
+            if controller:controller.set_control_rotation(look)
+            for cam in npc.get_components_by_class(u.CameraComponent):
+                cam.use_pawn_control_rotation=False
+                cam.set_world_rotation(u.MathLibrary.find_look_at_rotation(cam.get_world_location(),player_eye if visible else destination+u.Vector(0,0,60)),False,True)
+            if visible and self.ai_damage_enabled and self.clock>=entry['next_fire'] and valid(weapon):
+                entry['next_fire']=self.clock+.65+index*.035
+                weapon.call_method('Start Firing');weapon.call_method('Stop Firing');self.shots_fired+=1
+            if not visible or distance>950:
+                obstacle=self.trace(pos,pos+direction*140,ignore,radius=30)
+                if obstacle:
+                    right=u.Vector(-direction.y,direction.x,0)*entry['side']
+                    if self.trace(pos,pos+right*160,ignore,radius=30):entry['side']*=-1
+                    direction=right
+                npc.add_movement_input(direction,.7,True)
+
+    def update(self,dt,keys=None):
+        if not valid(self.player):return
+        dt=min(dt,.1);self.clock+=dt
+        keys=self.keys() if keys is None else keys
+        if 'Tab' in keys and 'Tab' not in self.previous:
+            self.inventory=not self.inventory
+            self.pc.set_ignore_move_input(self.inventory)
+            self.pc.set_ignore_look_input(self.inventory)
+            if valid(self.weapon):self.weapon.call_method('Stop Firing')
+        self.update_camera(dt,keys)
+        self.update_search(dt,keys)
+        self.ai_time+=dt
+        if self.ai_time>=.10:self.update_ai(self.ai_time);self.ai_time=0
+        self.hud_time+=dt
+        if self.hud_time>=.12:
+            self.hud_time=0;self.draw_hud()
+        self.previous=set(keys)
+
+    def draw_hud(self):
+        lines=['工厂 / 战术预览    Q/E 侧倾  |  右键 瞄准  |  F 搜索  |  Tab 背包']
+        hp=prop(self.player,'Current HP')
+        if hp is not None:lines.append('生命 %.0f    击倒 %d    背包 %d 件'%(hp,self.kills,len(self.pack)))
+        if self.inventory:
+            lines.append('—— 背包 6 × 5 ——')
+            for item in self.pack:lines.append('%s  [%d×%d]   %.1f kg'%(item['name'],item['w'],item['h'],item['kg']))
+            lines.append('再按 Tab 关闭；战局不会暂停')
+        elif self.search:lines.append('正在搜索 %s … %d%%'%(self.search['title'],min(100,self.search_time*50)))
+        elif self.focus:lines.append('[按住 F] 搜索 '+self.focus['title'])
+        if self.clock<self.message_until:lines.append(self.message)
+        u.SystemLibrary.print_string(self.world,'\n'.join(lines),True,False,u.LinearColor(.78,.87,.71,1),.3,'FactoryTacticalHUD')

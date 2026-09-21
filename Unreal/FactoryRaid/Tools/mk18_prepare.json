@@ -1,0 +1,22 @@
+{
+  "complete": true,
+  "muzzle_socket": "(<Object '/Game/Weapons/Rifle/Meshes/SK_Rifle.SK_Rifle:SkeletalMeshSocket_1' (0x000001D2F6FAE4C0) Class 'SkeletalMeshSocket'>, <Struct 'Transform' (0x000001D34F420960) {rotation: {x: 0.000001, y: -0.000001, z: 0.707107, w: 0.707107}, translation: {x: 0.000000, y: 50.923081, z: 9.885318}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>, 0, 1)",
+  "mapping_methods": {
+    "unmap_all": "x.unmap_all() -> None\r\nUnmap everything within the mapping context.",
+    "unmap_all_keys_from_action": "x.unmap_all_keys_from_action(action) -> None\r\nUnmap all key maps to an action within the mapping context.\r\n\r\nArgs:\r\n    action (InputAction):",
+    "unmap_key": "x.unmap_key(action, key) -> None\r\nUnmap a key from an action within the mapping context.\r\n\r\nArgs:\r\n    action (InputAction): \r\n    key (Key):"
+  },
+  "socket_methods": {
+    "add_socket": "x.add_socket(socket, add_to_skeleton=False) -> None\r\nAdd a skeletal socket object to this SkeletalMesh, and optionally promotes it to USkeleton socket.\r\n\r\nArgs:\r\n    socket (SkeletalMeshSocket): \r\n    add_to_skeleton (bool):",
+    "find_socket": "x.find_socket(socket_name) -> SkeletalMeshSocket\r\nFind a socket object in this SkeletalMesh by name.\nEntering NAME_None will return NULL. If there are multiple sockets with the same name, will return the first one.\r\n\r\nArgs:\r\n    socket_name (Name): \r\n\r\nReturns:\r\n    SkeletalMeshSocket:",
+    "find_socket_and_index": "x.find_socket_and_index(socket_name) -> (SkeletalMeshSocket, out_index=int32)\r\nFind a socket object in this SkeletalMesh by name.\nEntering NAME_None will return NULL. If there are multiple sockets with the same name, will return the first one.\nAlso returns the index for the socket allowing for future fast access via GetSocketByIndex()\r\n\r\nArgs:\r\n    socket_name (Name): \r\n\r\nReturns:\r\n    int32: \r\n\r\n    out_index (int32):",
+    "find_socket_info": "x.find_socket_info(socket_name) -> (SkeletalMeshSocket, out_transform=Transform, out_bone_index=int32, out_index=int32)\r\nFind a socket object and associated info in this SkeletalMesh by name.\nEntering NAME_None will return NULL. If there are multiple sockets with the same name, will return the first one.\nAlso returns the index for the socket allowing for future fast access via GetSocketByIndex()\nAlso returns the socket transform and the bone index (if any)\r\n\r\nArgs:\r\n    socket_name (Name): \r\n\r\nReturns:\r\n    tuple: \r\n\r\n    out_transform (Transform): \r\n\r\n    out_bone_index (int32): \r\n\r\n    out_index (int32):",
+    "get_socket_by_index": "x.get_socket_by_index(index) -> SkeletalMeshSocket\r\nReturns a socket by index. Max index is NumSockets(). The meshes sockets are accessed first, then the skeletons.\r\n\r\nArgs:\r\n    index (int32): \r\n\r\nReturns:\r\n    SkeletalMeshSocket:",
+    "num_sockets": "x.num_sockets() -> int32\r\nReturns the number of sockets available. Both on this mesh and it's skeleton.\r\n\r\nReturns:\r\n    int32:",
+    "remove_socket": "x.remove_socket(socket_name) -> bool\r\nRemove a socket from a skeletal mesh\r\n\r\nArgs:\r\n    socket_name (Name): The name of the socket to remove\r\n\r\nReturns:\r\n    bool: true if the removal succeeded.",
+    "rename_socket": "x.rename_socket(old_name, new_name) -> bool\r\nRename a socket within a skeleton\r\n\r\nArgs:\r\n    old_name (Name): The old name of the socket\r\n    new_name (Name): The new name of the socket\r\n\r\nReturns:\r\n    bool: true if the renaming succeeded."
+  },
+  "rebuild_methods": {
+    "request_rebuild_control_mappings_using_context": "X.request_rebuild_control_mappings_using_context(context, force_immediately=False) -> None\r\nFlag all enhanced input subsystems making use of the mapping context for reapplication of all control mappings at the end of this frame.\r\n\r\nArgs:\r\n    context (InputMappingContext): Mappings will be rebuilt for all subsystems utilizing this context.\r\n    force_immediately (bool): The mapping changes will be applied synchronously, rather than at the end of the frame, making them available to the input system on the same frame."
+  }
+}

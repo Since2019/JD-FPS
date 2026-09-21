@@ -1,0 +1,8 @@
+[
+  "<Object '/Game/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterProjectileBase.Default__BP_ShooterProjectileBase_C' (0x00000234D2759C00) Class 'BP_ShooterProjectileBase_C'>",
+  "<Object '/Game/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterProjectileBase.BP_ShooterProjectileBase_C:SphereComponent_84__ABACB698' (0x00000234D272A800) Class 'SphereComponent'>",
+  "<Object '/Game/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterProjectileBase.BP_ShooterProjectileBase_C:StaticMeshComponent_252__1AD2D010' (0x00000234D27C0A00) Class 'StaticMeshComponent'>",
+  "<Object '/Game/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterProjectileBase.BP_ShooterProjectileBase_C:StaticMeshComponent_252__1AD2D010' (0x00000234D27C0A00) Class 'StaticMeshComponent'>",
+  "<Object '/Game/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterProjectileBase.BP_ShooterProjectileBase_C:ProjectileMovement_GEN_VARIABLE' (0x00000234D2811200) Class 'ProjectileMovementComponent'>",
+  true
+]

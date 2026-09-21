@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "materials": [
+    "/Game/Game/Assets/Models/Weapons/HK416/Low.Low",
+    "/Game/Game/Assets/Models/Weapons/HK416/Sights.Sights",
+    "/Game/Game/Assets/Models/Weapons/EOTechXPS3Scope/EOTechXPS3Mat.EOTechXPS3Mat",
+    "/Game/Realism/Revision2/M_Bulkhead.M_Bulkhead",
+    "/Game/Factory/Visual2/Materials/M_wall.M_wall",
+    "/Game/Factory/Visual2/Materials/M_floor.M_floor",
+    "/Game/Icebreaker/Materials/M_Deck.M_Deck",
+    "/Game/Realism/Revision2/M_PanelTrim.M_PanelTrim"
+  ],
+  "maps": {
+    "/Game/Icebreaker/Maps/Icebreaker": {
+      "wall_actors_changed": 25,
+      "construction_parts": 88
+    },
+    "/Game/Factory/Maps/ClassicFactoryVisual": {
+      "wall_actors_changed": 0,
+      "construction_parts": 0
+    }
+  }
+}

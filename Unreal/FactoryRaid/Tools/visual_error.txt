@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Tools/visual_check.py", line 22, in tick
+    session.update(dt,keys)
+  File "C:\Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Tools\tactical_runtime.py", line 222, in update
+    self.update_camera(dt,keys)
+  File "C:\Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Tools\tactical_runtime.py", line 109, in update_camera
+    self.update_weapon_pose(camera_rot)
+  File "C:\Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Tools\tactical_runtime.py", line 124, in update_weapon_pose
+    desired_root=self.camera.get_world_location()+self.camera.get_forward_vector()*22-u.MathLibrary.rotate_vector(rear-root,delta)
+                                                                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'MathLibrary' has no attribute 'rotate_vector'

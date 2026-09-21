@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "enemies": 6,
+  "containers": 6,
+  "spawn_z": 98.0,
+  "stairs_position": "<Struct 'Vector' (0x00000290095137B0) {x: -292.243519, y: -690.000000, z: 458.092411}>",
+  "walked_from_deck_into_bridge": true,
+  "ads_error_cm": 3.590601127620001e-05,
+  "searched_container": true,
+  "ammo_before": 40,
+  "ammo_after": 33
+}

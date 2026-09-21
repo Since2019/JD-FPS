@@ -1,0 +1,116 @@
+{
+  "passed": true,
+  "checks": [
+    "Native UE keyboard and mouse state polling works",
+    "Six enemy characters are present",
+    "Player has a working weapon",
+    "Q physically moves the eye left",
+    "Q tilts left, matching its displacement",
+    "E physically moves the eye right",
+    "E tilts right, matching its displacement",
+    "ADS preserves world FOV instead of zooming",
+    "Rear sight and front post align with the actual camera ray",
+    "Single smooth pose and recoil controller replaces competing template effects",
+    "Wall prevents camera clipping while leaning",
+    "Visible nearby container can be searched",
+    "Releasing F interrupts without granting loot",
+    "Holding F transfers loot once to inventory",
+    "Searched container cannot duplicate loot",
+    "Player projectiles damage an enemy",
+    "Enemy acquires player and fires its weapon",
+    "Enemy projectiles damage the player",
+    "Muzzle feedback is triggered by actual ammunition consumption",
+    "Enemy cannot see the player behind its back",
+    "Enemy visual acquisition has a reaction delay",
+    "Rifle rounds use high-speed swept projectile movement",
+    "Template foam dart mesh is hidden",
+    "Real projectile impacts produce surface marks"
+  ],
+  "enemy_count": 6,
+  "animation_instances": [
+    {
+      "mesh": "CharacterMesh0",
+      "anim": "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.BP_ShooterCharacter_C_0.CharacterMesh0.ABP_TP_Rifle_C_0' (0x00000226C746C000) Class 'ABP_TP_Rifle_C'>",
+      "Is Aiming": null
+    },
+    {
+      "mesh": "FirstPersonMesh",
+      "anim": "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.BP_ShooterCharacter_C_0.FirstPersonMesh.ABP_TacticalWeapon_C_0' (0x0000022648EDF000) Class 'ABP_TacticalWeapon_C'>",
+      "Is Aiming": false
+    }
+  ],
+  "npc_actors": [
+    {
+      "name": "BP_ShooterNPC_C_0",
+      "tags": "[\"Enemy\"]"
+    },
+    {
+      "name": "BP_ShooterNPC_C_1",
+      "tags": "[\"Enemy\"]"
+    },
+    {
+      "name": "BP_ShooterNPC_C_2",
+      "tags": "[\"Enemy\"]"
+    },
+    {
+      "name": "BP_ShooterNPC_C_3",
+      "tags": "[\"Enemy\"]"
+    },
+    {
+      "name": "BP_ShooterNPC_C_4",
+      "tags": "[\"Enemy\"]"
+    },
+    {
+      "name": "BP_ShooterNPC_C_5",
+      "tags": "[\"Enemy\"]"
+    }
+  ],
+  "enemy_initial_hp": [
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0
+  ],
+  "enemy_weapon": [
+    "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.BP_ShooterWeapon_Rifle_C_0' (0x00000226C750C600) Class 'BP_ShooterWeapon_Rifle_C'>",
+    "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.BP_ShooterWeapon_Rifle_C_1' (0x00000226C750C000) Class 'BP_ShooterWeapon_Rifle_C'>",
+    "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.BP_ShooterWeapon_Rifle_C_2' (0x00000226C7508400) Class 'BP_ShooterWeapon_Rifle_C'>",
+    "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.BP_ShooterWeapon_Rifle_C_3' (0x00000226C7507E00) Class 'BP_ShooterWeapon_Rifle_C'>",
+    "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.BP_ShooterWeapon_Rifle_C_4' (0x00000226C7507800) Class 'BP_ShooterWeapon_Rifle_C'>",
+    "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.BP_ShooterWeapon_Rifle_C_5' (0x00000226C7507200) Class 'BP_ShooterWeapon_Rifle_C'>"
+  ],
+  "aim_state": {
+    "alpha": 0.9996777187652307,
+    "fov": 90.0,
+    "anim_available": true,
+    "aiming": false
+  },
+  "sights": {
+    "rear_error_cm": 0.009756592655074264,
+    "axis_alignment": 0.9999999999840083
+  },
+  "search_debug": {
+    "box": "运动包",
+    "position": "<Struct 'Vector' (0x0000022650747210) {x: -2800.000000, y: 2800.000000, z: 64.999998}>",
+    "player": "<Struct 'Vector' (0x0000022650749550) {x: -2800.000000, y: 2940.000000, z: 97.999998}>",
+    "eye": "<Struct 'Vector' (0x00000226507496E0) {x: -2799.999981, y: 2940.000000, z: 161.999998}>",
+    "control": "<Struct 'Rotator' (0x0000022650749550) {pitch: -34.716426, yaw: -90.000000, roll: -0.000000}>",
+    "forward": "<Struct 'Vector' (0x0000022650749550) {x: -0.000000, y: -0.821981, z: -0.569515}>",
+    "focus": "运动包",
+    "hit": "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.StaticMeshActor_1186' (0x0000022680FE9B00) Class 'StaticMeshActor'>",
+    "impact": "<Struct 'Vector' (0x0000022650749190) {x: -2799.999995, y: 2835.000000, z: 89.249998}>",
+    "elapsed": 0.6023740991950035
+  },
+  "enemy_hp_before": 100.0,
+  "enemy_hp_after": 0.0,
+  "player_hp_before": 500.0,
+  "player_hp_after": 450.0,
+  "feedback": {
+    "flashes": 17,
+    "impacts": 9
+  },
+  "projectile_speed": 80000.0,
+  "projectile_mesh_hidden": true
+}

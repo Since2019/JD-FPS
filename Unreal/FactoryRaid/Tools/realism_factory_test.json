@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "map": "factory",
+  "rhi": "DX12 requested; verify log",
+  "frames": [],
+  "enemies": 6,
+  "containers": 8,
+  "fp_materials": [
+    "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.BP_ShooterCharacter_C_0.FirstPersonMesh.MID_MI_Manny_01_New_0' (0x0000022012559800) Class 'MaterialInstanceDynamic'>",
+    "<Object '/Game/Factory/Maps/UEDPIE_0_ClassicFactoryVisual.ClassicFactoryVisual:PersistentLevel.BP_ShooterCharacter_C_0.FirstPersonMesh.MID_MI_Manny_02_New_0' (0x000002201255A000) Class 'MaterialInstanceDynamic'>"
+  ],
+  "renderer_cvars": {
+    "r.DynamicGlobalIlluminationMethod": 1,
+    "r.ReflectionMethod": 1,
+    "r.Shadow.Virtual.Enable": 1
+  },
+  "holo_dimensions_cm": [
+    9.650000015236236,
+    5.329999883331036,
+    6.349999958062852
+  ],
+  "ammo_before": 30,
+  "ads_error_cm": 5.372480480057731e-05,
+  "firing": true
+}

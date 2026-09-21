@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "pointer": [
+    390.0,
+    628.0
+  ],
+  "pixel_grab_anchor": true,
+  "independent_ammo": true,
+  "helmet_equip_unequip": true,
+  "invalid_drop_preserved": true,
+  "empty_slot_blocks_fire": true,
+  "crouch_eye": 100.01338213532223,
+  "prone_eye": 43.01197665487044,
+  "ceiling_blocks_stand": true,
+  "stance_cycle": true
+}

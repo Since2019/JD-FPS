@@ -1,0 +1,8 @@
+{
+  "map": "/Game/Icebreaker/Maps/Icebreaker",
+  "actors": 918,
+  "enemies": 6,
+  "containers": 6,
+  "complete": true,
+  "quality": "Authored environment with scanned deck material; existing prototype character and weapon assets retained pending complete replacements."
+}

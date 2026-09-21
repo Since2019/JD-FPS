@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "arm_materials": [
+    "/Game/Characters/Mannequins/Materials/Manny/MI_Manny_01_New.MI_Manny_01_New",
+    "/Game/Characters/Mannequins/Materials/Manny/MI_Manny_02_New.MI_Manny_02_New"
+  ],
+  "opened_by_f": true,
+  "revealed": 4,
+  "transfer_persists": true,
+  "corpse_opened_by_f": true,
+  "corpse_looted": true
+}

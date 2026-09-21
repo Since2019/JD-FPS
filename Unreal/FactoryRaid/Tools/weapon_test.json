@@ -1,0 +1,39 @@
+{
+  "pawn": "BP_ShooterCharacter_C",
+  "player_location": "<Struct 'Vector' (0x0000013E98B72F40) {x: -2800.000000, y: 2500.000000, z: 98.149998}>",
+  "pickups": [
+    {
+      "location": "<Struct 'Vector' (0x0000013E864149C0) {x: -2560.000000, y: 2500.000000, z: 70.000000}>",
+      "class": "BP_ShooterPickup_C",
+      "Weapon Type": "<Struct 'DataTableRowHandle' (0x0000013EA15916E0) {data_table: \"/Script/Engine.DataTable'/Game/Variant_Shooter/Blueprints/Pickups/DT_WeaponList.DT_WeaponList'\", row_name: \"Rifle\"}>",
+      "Weapon Class": "<Object '/Game/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_Rifle.BP_ShooterWeapon_Rifle_C' (0x0000013EA0500700) Class 'BlueprintGeneratedClass'>",
+      "components": [
+        {
+          "name": "BasePlate",
+          "location": "<Struct 'Vector' (0x0000013E98B72F40) {x: -2560.000000, y: 2500.000000, z: 70.000000}>",
+          "overlap": true,
+          "collision": "<CollisionEnabled.NO_COLLISION: 0>",
+          "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>"
+        },
+        {
+          "name": "SphereCollision",
+          "location": "<Struct 'Vector' (0x0000013E98B72F40) {x: -2560.000000, y: 2500.000000, z: 153.847737}>",
+          "overlap": true,
+          "collision": "<CollisionEnabled.NO_COLLISION: 0>",
+          "pawn_response": "<CollisionResponseType.ECR_OVERLAP: 1>"
+        },
+        {
+          "name": "StaticMesh",
+          "location": "<Struct 'Vector' (0x0000013E98B72F40) {x: -2560.000000, y: 2500.000000, z: 157.754301}>",
+          "overlap": true,
+          "collision": "<CollisionEnabled.NO_COLLISION: 0>",
+          "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>"
+        }
+      ]
+    }
+  ],
+  "weapon": "BP_ShooterWeapon_Rifle_C",
+  "ammo_before": 40,
+  "ammo_after": 29,
+  "passed": true
+}

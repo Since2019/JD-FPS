@@ -1,0 +1,35 @@
+[
+  {
+    "id": "portable_generator",
+    "position": [
+      -1320,
+      265,
+      0
+    ],
+    "yaw": 180,
+    "scale": 1,
+    "label": "PH Service | portable_generator"
+  },
+  {
+    "id": "metal_tool_chest",
+    "position": [
+      -1320,
+      410,
+      0
+    ],
+    "yaw": 180,
+    "scale": 1,
+    "label": "PH Service | metal_tool_chest"
+  },
+  {
+    "id": "old_military_crate",
+    "position": [
+      -1320,
+      -350,
+      0
+    ],
+    "yaw": 90,
+    "scale": 1,
+    "label": "PH Service | old_military_crate"
+  }
+]

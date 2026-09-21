@@ -1,0 +1,137 @@
+{
+  "passed": false,
+  "cases": [
+    {
+      "yaw": 0,
+      "key": "W",
+      "forward_cm": -173.3320044475392,
+      "right_cm": -137.64230566331923,
+      "actor_yaw": 0.0,
+      "ok": false
+    },
+    {
+      "yaw": 0,
+      "key": "A",
+      "forward_cm": -573.9433794054133,
+      "right_cm": -274.7440291375976,
+      "actor_yaw": 0.0,
+      "ok": false
+    },
+    {
+      "yaw": 0,
+      "key": "S",
+      "forward_cm": -626.8549895461658,
+      "right_cm": -157.72375578447804,
+      "actor_yaw": 0.0,
+      "ok": false
+    },
+    {
+      "yaw": 0,
+      "key": "D",
+      "forward_cm": -593.0085675932696,
+      "right_cm": -73.7798119126532,
+      "actor_yaw": 0.0,
+      "ok": false
+    },
+    {
+      "yaw": 90,
+      "key": "W",
+      "forward_cm": -562.0024589919531,
+      "right_cm": -202.13797910801148,
+      "actor_yaw": 89.99999999999999,
+      "ok": false
+    },
+    {
+      "yaw": 90,
+      "key": "A",
+      "forward_cm": -492.16321897117507,
+      "right_cm": -254.11132277337603,
+      "actor_yaw": 89.99999999999999,
+      "ok": false
+    },
+    {
+      "yaw": 90,
+      "key": "S",
+      "forward_cm": -632.6672905373092,
+      "right_cm": -160.40672517225605,
+      "actor_yaw": 89.99999999999999,
+      "ok": false
+    },
+    {
+      "yaw": 90,
+      "key": "D",
+      "forward_cm": -594.1132280793831,
+      "right_cm": -75.78307980032415,
+      "actor_yaw": 89.99999999999999,
+      "ok": false
+    },
+    {
+      "yaw": 180,
+      "key": "W",
+      "forward_cm": -563.7329755270814,
+      "right_cm": -201.8640329088582,
+      "actor_yaw": 180.0,
+      "ok": false
+    },
+    {
+      "yaw": 180,
+      "key": "A",
+      "forward_cm": -490.8670131547691,
+      "right_cm": -252.85118491105356,
+      "actor_yaw": 180.0,
+      "ok": false
+    },
+    {
+      "yaw": 180,
+      "key": "S",
+      "forward_cm": -686.6964876860123,
+      "right_cm": -176.0849357761475,
+      "actor_yaw": 180.0,
+      "ok": false
+    },
+    {
+      "yaw": 180,
+      "key": "D",
+      "forward_cm": -605.1396550477299,
+      "right_cm": -77.06483920998448,
+      "actor_yaw": 180.0,
+      "ok": false
+    },
+    {
+      "yaw": -90,
+      "key": "W",
+      "forward_cm": -591.3628050263352,
+      "right_cm": -210.84926809856938,
+      "actor_yaw": -90.00000000000001,
+      "ok": false
+    },
+    {
+      "yaw": -90,
+      "key": "A",
+      "forward_cm": -522.0206730307915,
+      "right_cm": -260.9412545070901,
+      "actor_yaw": -90.00000000000001,
+      "ok": false
+    },
+    {
+      "yaw": -90,
+      "key": "S",
+      "forward_cm": -719.5344150860232,
+      "right_cm": -185.67705335230343,
+      "actor_yaw": -90.00000000000001,
+      "ok": false
+    },
+    {
+      "yaw": -90,
+      "key": "D",
+      "forward_cm": -603.667817325815,
+      "right_cm": -76.35344748254097,
+      "actor_yaw": -90.00000000000001,
+      "ok": false
+    }
+  ],
+  "active_contexts": {
+    "/Game/IMC_Default": null,
+    "/Game/Input/IMC_Default": null
+  }
+}

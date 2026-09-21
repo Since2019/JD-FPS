@@ -1,0 +1,16 @@
+{
+  "snowfield_cm": [
+    8000,
+    8000,
+    100
+  ],
+  "snowfield_tris": 32768,
+  "snowdrift_cm": [
+    320,
+    80,
+    12
+  ],
+  "snowdrift_tris": 1984,
+  "height_amplitudes": "Project estimates, not recovered real-world absolute elevations",
+  "horizontal_scale": "Aerial field 80 m from Poly Haven metadata; deck drift authored 3.2 x .8 m"
+}

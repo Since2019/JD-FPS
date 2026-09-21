@@ -1,0 +1,408 @@
+[
+  {
+    "id": "bolt_action_rifle_7_62",
+    "info": {
+      "type": 2,
+      "name": "Bolt Action Rifle 7.62",
+      "categories": [
+        "collection: project_lighthouse",
+        "weapons",
+        "firearms"
+      ],
+      "tags": [
+        "vintage",
+        "worn",
+        "old",
+        "weathered",
+        "aged",
+        "gun",
+        "scope",
+        "bullet"
+      ],
+      "description": "Free 8K model of a classic bolt-action 7.62 rifle with long barrel, worn wood stock, cloth-wrapped butt, detachable magazine, small scope, and weathered metal.",
+      "authors": {
+        "Mateusz Sadek": "All"
+      },
+      "donated": true,
+      "max_resolution": [
+        8192,
+        8192
+      ],
+      "polycount": 19985,
+      "files_hash": "151d4108d40bfd38a062ac462e8b4ad7e3df2e98",
+      "texel_density": 18568.187728189034,
+      "dimensions": [
+        1230.9749126434326,
+        66.5869489312172,
+        204.51291650533676
+      ],
+      "date_published": 1782777600,
+      "staging": null,
+      "category_id": "aa6f11e5-0e7c-52e1-95d7-dd6c4482152b",
+      "category": "Weapons/Firearms/Rifles",
+      "collections": [
+        "project_lighthouse"
+      ],
+      "attributes": {
+        "condition": [
+          "weathered"
+        ],
+        "material": [
+          "metal",
+          "wood",
+          "fabric"
+        ]
+      },
+      "img_version": "849d4d83",
+      "download_count": 2325,
+      "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bolt_action_rifle_7_62.png?width=256&height=256&v=849d4d83"
+    },
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/bolt_action_rifle_7_62",
+    "files": {
+      "mesh": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_4k.fbx",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_4k.fbx",
+        "md5": "a75d44e6cba20e7e9694de60697a02af",
+        "size": 788876
+      },
+      "accesories_alpha": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_accesories_alpha_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_4k.jpg",
+        "md5": "0bdb0e86a374686f83631b591aeb4ac7",
+        "size": 326571
+      },
+      "accesories_ao": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_accesories_ao_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_4k.jpg",
+        "md5": "2602ac53c65cd9a7016588d2afd44a4f",
+        "size": 8048272
+      },
+      "accesories_diff": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_accesories_diff_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_4k.jpg",
+        "md5": "0777a65b4f80e292ce6b5e9b97f9206a",
+        "size": 12288264
+      },
+      "accesories_metal": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_accesories_metal_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_4k.jpg",
+        "md5": "13801c366bb36dd07fead8f834f51c78",
+        "size": 3576563
+      },
+      "accesories_nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_accesories_nor_dx_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_4k.jpg",
+        "md5": "ea4bae9feee1a43dc9f5a66152594e63",
+        "size": 16297607
+      },
+      "accesories_rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_accesories_rough_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_4k.jpg",
+        "md5": "13a2a9d2060ad06b788fd8f5f8aa6cce",
+        "size": 10889338
+      },
+      "AO": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_ao_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_4k.jpg",
+        "md5": "10642d35274adb77da90e0d49c762c82",
+        "size": 4744476
+      },
+      "Diffuse": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_diff_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_4k.jpg",
+        "md5": "81aa39eeb610d8523fd704f1fdb155dc",
+        "size": 13757410
+      },
+      "Metal": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_metal_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_4k.jpg",
+        "md5": "c57d555dfb297762f0cf73d1b037c138",
+        "size": 4093113
+      },
+      "nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_nor_dx_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_4k.jpg",
+        "md5": "15b55d9d5eeae588dc3e92ce8fe0679a",
+        "size": 10460086
+      },
+      "Rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\bolt_action_rifle_7_62\\bolt_action_rifle_7_62_rough_4k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_4k.jpg",
+        "md5": "b111375be5a55e13062f6c3d17993762",
+        "size": 11428053
+      }
+    }
+  },
+  {
+    "id": "coastal_cliff_02",
+    "info": {
+      "name": "Coastal Cliff 02",
+      "type": 2,
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "info": null,
+      "date_published": 1689724800,
+      "staging": null,
+      "lods": true,
+      "tags": [
+        "cliff",
+        "ocean",
+        "rocks",
+        "maritime",
+        "cove",
+        "formation",
+        "rock face",
+        "seaside",
+        "landscape"
+      ],
+      "categories": [
+        "nature",
+        "collection: smugglers_cove",
+        "collection: verdant_trail"
+      ],
+      "max_resolution": [
+        8192,
+        8192
+      ],
+      "polycount": 1768655,
+      "texel_density": 261.1445428351951,
+      "dimensions": [
+        40929.92401123047,
+        8652.921199798584,
+        10055.558755993843
+      ],
+      "sponsors": [
+        "26820710"
+      ],
+      "files_hash": "e7023dcb232d9a61fe2a7dadea40fc91a3299a1f",
+      "description": "Free 8K model of a rugged seaside cliff with weathered rock faces, crevices, layered strata and grassy top - high-detail, sea-worn coastal formation.",
+      "category_id": "f85e579c-2409-50c7-bac6-f3193d38593d",
+      "category": "Nature/Rocks & Stone/Cliffs & Rock Faces",
+      "collections": [
+        "smugglers_cove",
+        "verdant_trail"
+      ],
+      "attributes": {
+        "condition": [
+          "weathered"
+        ],
+        "material": [
+          "stone"
+        ],
+        "lods": true
+      },
+      "img_version": "c7e6c1e0",
+      "download_count": 16496,
+      "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coastal_cliff_02.png?width=256&height=256&v=c7e6c1e0"
+    },
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/coastal_cliff_02",
+    "files": {
+      "mesh": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\coastal_cliff_02\\coastal_cliff_02_4k.fbx",
+        "size": 77979500,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/coastal_cliff_02/coastal_cliff_02_4k.fbx",
+        "md5": "e46352f245d878a8dfc7bb12cbec1d4b"
+      },
+      "Diffuse": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\coastal_cliff_02\\coastal_cliff_02_diff_4k.jpg",
+        "size": 8468918,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/coastal_cliff_02/coastal_cliff_02_diff_4k.jpg",
+        "md5": "2c189af63bd9d8f4725db2d4765747aa"
+      },
+      "nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\coastal_cliff_02\\coastal_cliff_02_nor_dx_4k.jpg",
+        "size": 16842539,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/coastal_cliff_02/coastal_cliff_02_nor_dx_4k.jpg",
+        "md5": "9d6348769a6b7f10f20715ff4a78b956"
+      },
+      "AO": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\coastal_cliff_02\\coastal_cliff_02_ao_4k.jpg",
+        "size": 7323428,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/coastal_cliff_02/coastal_cliff_02_ao_4k.jpg",
+        "md5": "474d7f26fccd266fd5494861bded57e1"
+      },
+      "Rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\coastal_cliff_02\\coastal_cliff_02_rough_4k.jpg",
+        "size": 4383620,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/coastal_cliff_02/coastal_cliff_02_rough_4k.jpg",
+        "md5": "eab2a8bce4ead2db96d4cafc917e72c6"
+      }
+    }
+  },
+  {
+    "id": "snow_field_aerial",
+    "info": {
+      "scale": "80x80M",
+      "type": 1,
+      "tags": [
+        "snow",
+        "mud",
+        "field",
+        "uneven"
+      ],
+      "date_published": 1613393345,
+      "name": "Snow Field Aerial",
+      "old_id": 300,
+      "categories": [
+        "terrain",
+        "snow",
+        "outdoor",
+        "dirty",
+        "natural",
+        "aerial"
+      ],
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "dimensions": [
+        80000,
+        80000
+      ],
+      "max_resolution": [
+        8192,
+        8192
+      ],
+      "files_hash": "8b68358190d77b84a36bbf447f4104701f125808",
+      "description": "Free 8K texture of an aerial snow field: patchy white snow over dark muddy soil, granular crust, uneven terrain and natural roughness.",
+      "category_id": "41640037-7e94-5a3e-bd1c-e77bd5605abe",
+      "category": "Ground & Terrain/Snow/Dirty & Muddy Snow",
+      "attributes": {
+        "surface_use": "ground",
+        "origin": "natural",
+        "setting": "outdoor",
+        "aerial": true,
+        "condition": [
+          "dirty"
+        ]
+      },
+      "img_version": "59804f48",
+      "download_count": 61502,
+      "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_field_aerial.png?width=256&height=256&v=59804f48"
+    },
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/snow_field_aerial",
+    "files": {
+      "Diffuse": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\snow_field_aerial\\snow_field_aerial_col_4k.jpg",
+        "size": 8607739,
+        "md5": "57b60bd359038d085f1dcbd7d6ad03c2",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_field_aerial/snow_field_aerial_col_4k.jpg"
+      },
+      "nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\snow_field_aerial\\snow_field_aerial_nor_dx_4k.jpg",
+        "size": 6873185,
+        "md5": "d6383ff466cbfcbec018eab251a69936",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_field_aerial/snow_field_aerial_nor_dx_4k.jpg"
+      },
+      "AO": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\snow_field_aerial\\snow_field_aerial_ao_4k.jpg",
+        "size": 3084879,
+        "md5": "81e8dcc40d5cbe1ad27a458713eeafa4",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_field_aerial/snow_field_aerial_ao_4k.jpg"
+      },
+      "Displacement": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\snow_field_aerial\\snow_field_aerial_height_4k.png",
+        "size": 30573923,
+        "md5": "7c39ea828201a981ad15a628568de5eb",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_field_aerial/snow_field_aerial_height_4k.png"
+      },
+      "Rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\snow_field_aerial\\snow_field_aerial_rough_4k.jpg",
+        "size": 5624552,
+        "md5": "a9f25d6cf2ad464f14b9dc98e8f329e1",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_field_aerial/snow_field_aerial_rough_4k.jpg"
+      }
+    }
+  },
+  {
+    "id": "snow_02",
+    "info": {
+      "type": 1,
+      "date_published": 1548806533,
+      "name": "Snow 02",
+      "old_id": 188,
+      "categories": [
+        "terrain",
+        "natural",
+        "outdoor",
+        "snow"
+      ],
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sponsors": [
+        "3237733"
+      ],
+      "max_resolution": [
+        8192,
+        8192
+      ],
+      "files_hash": "a4bb49360f8e164e74ee396b76ac33c96d6282b7",
+      "tags": [
+        "snow",
+        "uneven",
+        "smooth",
+        "powdery",
+        "frosty",
+        "snowfield",
+        "soft",
+        "wintery"
+      ],
+      "description": "Free 8K texture of soft, powdery snow: smooth yet uneven drifts, frosty fine granularity, subtle ridges and sparse dark specks.",
+      "category_id": "b554e7e6-e9aa-5f27-a86a-a6af6942a6a8",
+      "category": "Ground & Terrain/Snow/Fresh Snow",
+      "attributes": {
+        "surface_use": "ground",
+        "origin": "natural",
+        "setting": "outdoor",
+        "condition": [
+          "clean"
+        ]
+      },
+      "img_version": "0c06ec15",
+      "download_count": 228246,
+      "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_02.png?width=256&height=256&v=0c06ec15"
+    },
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/snow_02",
+    "files": {
+      "Diffuse": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\snow_02\\snow_02_diff_4k.jpg",
+        "size": 4537020,
+        "md5": "6d516278de635715a36cf87ef7facdad",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_02/snow_02_diff_4k.jpg"
+      },
+      "nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\snow_02\\snow_02_nor_dx_4k.jpg",
+        "size": 17876486,
+        "md5": "c97c12404892fadd45f3a2f51aa996dd",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_02/snow_02_nor_dx_4k.jpg"
+      },
+      "AO": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\snow_02\\snow_02_ao_4k.jpg",
+        "size": 6845560,
+        "md5": "437ad3fc5bcac7863a56d0e6b89e8a5c",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_02/snow_02_ao_4k.jpg"
+      },
+      "Displacement": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\snow_02\\snow_02_disp_4k.png",
+        "size": 27710127,
+        "md5": "7bd72e70e2f4a6f8acc49cbfaf3021e8",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_02/snow_02_disp_4k.png"
+      },
+      "Rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\WeaponTerrainSource\\snow_02\\snow_02_rough_4k.jpg",
+        "size": 2395144,
+        "md5": "c57e23c8a233e852d9175f715c8be3bc",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_02/snow_02_rough_4k.jpg"
+      }
+    }
+  }
+]

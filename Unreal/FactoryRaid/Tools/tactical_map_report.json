@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BP_ShooterNPC_C_0",
+    "team_property": "NPC blueprint default",
+    "position": "<Struct 'Vector' (0x000001D551F2F850) {x: 1300.000000, y: 2200.000000, z: 96.000000}>"
+  },
+  {
+    "name": "BP_ShooterNPC_C_1",
+    "team_property": "NPC blueprint default",
+    "position": "<Struct 'Vector' (0x000001D551F2F8F0) {x: 1500.000000, y: -1200.000000, z: 96.000000}>"
+  },
+  {
+    "name": "BP_ShooterNPC_C_2",
+    "team_property": "NPC blueprint default",
+    "position": "<Struct 'Vector' (0x000001D551F54420) {x: -1600.000000, y: -800.000000, z: 96.000000}>"
+  },
+  {
+    "name": "BP_ShooterNPC_C_3",
+    "team_property": "NPC blueprint default",
+    "position": "<Struct 'Vector' (0x000001D551F2E4F0) {x: -500.000000, y: -200.000000, z: 746.000000}>"
+  },
+  {
+    "name": "BP_ShooterNPC_C_4",
+    "team_property": "NPC blueprint default",
+    "position": "<Struct 'Vector' (0x000001D551F544C0) {x: 1200.000000, y: -3000.000000, z: -244.000000}>"
+  },
+  {
+    "name": "BP_ShooterNPC_C_5",
+    "team_property": "NPC blueprint default",
+    "position": "<Struct 'Vector' (0x000001D551F54330) {x: -2500.000000, y: 800.000000, z: 96.000000}>"
+  }
+]

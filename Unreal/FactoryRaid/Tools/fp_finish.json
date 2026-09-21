@@ -1,0 +1,16 @@
+{
+  "CharacterMesh0": [
+    "<Object '/Game/Characters/Mannequins/Materials/Manny/MI_Manny_01_New.MI_Manny_01_New' (0x000001BA0F30A000) Class 'MaterialInstanceConstant'>",
+    "<Object '/Game/Characters/Mannequins/Materials/Manny/MI_Manny_02_New.MI_Manny_02_New' (0x000001BA0F30A800) Class 'MaterialInstanceConstant'>"
+  ],
+  "MI_Manny_01_New": {
+    "parent": "<Object '/Game/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin' (0x000001B9FA38C400) Class 'Material'>",
+    "vectors": "[\"Paint Tint\", \"LogoTint\", \"Blend Offset\"]",
+    "scalars": "[\"MetalPaintMetallic\", \"MetalPaintRoughness\", \"LogoPosX\", \"LogoPosY\", \"LogoScale\", \"EmissivePower\", \"Scale\", \"Head Cutout\"]"
+  },
+  "MI_Manny_02_New": {
+    "parent": "<Object '/Game/Characters/Mannequins/Materials/Manny/MI_Manny_01_New.MI_Manny_01_New' (0x000001BA0F30A000) Class 'MaterialInstanceConstant'>",
+    "vectors": "[\"Paint Tint\", \"LogoTint\", \"Blend Offset\"]",
+    "scalars": "[\"MetalPaintMetallic\", \"MetalPaintRoughness\", \"LogoPosX\", \"LogoPosY\", \"LogoScale\", \"EmissivePower\", \"Scale\", \"Head Cutout\"]"
+  }
+}

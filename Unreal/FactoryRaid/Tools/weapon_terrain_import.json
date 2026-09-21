@@ -1,0 +1,458 @@
+{
+  "passed": true,
+  "assets": {
+    "bolt_action_rifle_7_62": {
+      "textures": {
+        "accesories_alpha": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_accesories_alpha.T_accesories_alpha",
+        "accesories_ao": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_accesories_ao.T_accesories_ao",
+        "accesories_diff": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_accesories_diff.T_accesories_diff",
+        "accesories_metal": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_accesories_metal.T_accesories_metal",
+        "accesories_nor_dx": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_accesories_nor_dx.T_accesories_nor_dx",
+        "accesories_rough": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_accesories_rough.T_accesories_rough",
+        "AO": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_AO.T_AO",
+        "Diffuse": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_Diffuse.T_Diffuse",
+        "Metal": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_Metal.T_Metal",
+        "nor_dx": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_nor_dx.T_nor_dx",
+        "Rough": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/T_Rough.T_Rough"
+      },
+      "meshes": [
+        {
+          "path": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/bolt_action_rifle_7_62.bolt_action_rifle_7_62",
+          "name": "bolt_action_rifle_7_62",
+          "origin": [
+            -1.9582157135009766,
+            4.76837158203125e-07,
+            -1.749758005142212
+          ],
+          "size": [
+            123.09749221801758,
+            4.2981486320495605,
+            18.26568365097046
+          ],
+          "slots": [
+            "bolt_action_rifle_7_62"
+          ]
+        },
+        {
+          "path": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/bolt_action_rifle_7_62_bolt_a.bolt_action_rifle_7_62_bolt_a",
+          "name": "bolt_action_rifle_7_62_bolt_a",
+          "origin": [
+            -21.365440845489502,
+            1.534039705991745,
+            3.7005258798599243
+          ],
+          "size": [
+            12.269885063171387,
+            4.971748888492584,
+            4.399308919906616
+          ],
+          "slots": [
+            "bolt_action_rifle_7_62"
+          ]
+        },
+        {
+          "path": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/bolt_action_rifle_7_62_bolt_b.bolt_action_rifle_7_62_bolt_b",
+          "name": "bolt_action_rifle_7_62_bolt_b",
+          "origin": [
+            -25.12741756439209,
+            0.26453500986099243,
+            5.245627999305725
+          ],
+          "size": [
+            14.329156875610352,
+            2.3293474912643433,
+            2.5147273540496826
+          ],
+          "slots": [
+            "bolt_action_rifle_7_62"
+          ]
+        },
+        {
+          "path": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/bolt_action_rifle_7_62_bullet_54mm.bolt_action_rifle_7_62_bullet_54mm",
+          "name": "bolt_action_rifle_7_62_bullet_54mm",
+          "origin": [
+            -20.070724487304688,
+            0.0,
+            -5.466724872589111
+          ],
+          "size": [
+            7.685031890869141,
+            1.4529321193695068,
+            1.452932357788086
+          ],
+          "slots": [
+            "bolt_action_rifle_7_62"
+          ]
+        },
+        {
+          "path": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/bolt_action_rifle_7_62_scope.bolt_action_rifle_7_62_scope",
+          "name": "bolt_action_rifle_7_62_scope",
+          "origin": [
+            -20.710659980773926,
+            -0.7348207235336304,
+            7.062284231185913
+          ],
+          "size": [
+            10.756746292114258,
+            3.807920217514038,
+            5.012815952301025
+          ],
+          "slots": [
+            "bolt_action_rifle_7_62_accesories",
+            "bolt_action_rifle_7_62_accesories_glass"
+          ]
+        },
+        {
+          "path": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/bolt_action_rifle_7_62_trigger.bolt_action_rifle_7_62_trigger",
+          "name": "bolt_action_rifle_7_62_trigger",
+          "origin": [
+            -28.855548858642578,
+            9.685754776000977e-07,
+            -1.0388256907463074
+          ],
+          "size": [
+            1.4687004089355469,
+            0.7000001966953278,
+            3.864631772041321
+          ],
+          "slots": [
+            "bolt_action_rifle_7_62"
+          ]
+        },
+        {
+          "path": "/Game/Realism/WeaponTerrain/bolt_action_rifle_7_62/bolt_action_rifle_7_62_wrap.bolt_action_rifle_7_62_wrap",
+          "name": "bolt_action_rifle_7_62_wrap",
+          "origin": [
+            -48.04912757873535,
+            0.011205673217773438,
+            -3.496974468231201
+          ],
+          "size": [
+            22.597858428955078,
+            4.009937286376953,
+            11.408173561096191
+          ],
+          "slots": [
+            "bolt_action_rifle_7_62_accesories"
+          ]
+        }
+      ],
+      "source_info": {
+        "type": 2,
+        "name": "Bolt Action Rifle 7.62",
+        "categories": [
+          "collection: project_lighthouse",
+          "weapons",
+          "firearms"
+        ],
+        "tags": [
+          "vintage",
+          "worn",
+          "old",
+          "weathered",
+          "aged",
+          "gun",
+          "scope",
+          "bullet"
+        ],
+        "description": "Free 8K model of a classic bolt-action 7.62 rifle with long barrel, worn wood stock, cloth-wrapped butt, detachable magazine, small scope, and weathered metal.",
+        "authors": {
+          "Mateusz Sadek": "All"
+        },
+        "donated": true,
+        "max_resolution": [
+          8192,
+          8192
+        ],
+        "polycount": 19985,
+        "files_hash": "151d4108d40bfd38a062ac462e8b4ad7e3df2e98",
+        "texel_density": 18568.187728189034,
+        "dimensions": [
+          1230.9749126434326,
+          66.5869489312172,
+          204.51291650533676
+        ],
+        "date_published": 1782777600,
+        "staging": null,
+        "category_id": "aa6f11e5-0e7c-52e1-95d7-dd6c4482152b",
+        "category": "Weapons/Firearms/Rifles",
+        "collections": [
+          "project_lighthouse"
+        ],
+        "attributes": {
+          "condition": [
+            "weathered"
+          ],
+          "material": [
+            "metal",
+            "wood",
+            "fabric"
+          ]
+        },
+        "img_version": "849d4d83",
+        "download_count": 2325,
+        "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/bolt_action_rifle_7_62.png?width=256&height=256&v=849d4d83"
+      }
+    },
+    "coastal_cliff_02": {
+      "textures": {
+        "Diffuse": "/Game/Realism/WeaponTerrain/coastal_cliff_02/T_Diffuse.T_Diffuse",
+        "nor_dx": "/Game/Realism/WeaponTerrain/coastal_cliff_02/T_nor_dx.T_nor_dx",
+        "AO": "/Game/Realism/WeaponTerrain/coastal_cliff_02/T_AO.T_AO",
+        "Rough": "/Game/Realism/WeaponTerrain/coastal_cliff_02/T_Rough.T_Rough"
+      },
+      "meshes": [
+        {
+          "path": "/Game/Realism/WeaponTerrain/coastal_cliff_02/coastal_cliff_02_LOD0.coastal_cliff_02_LOD0",
+          "name": "coastal_cliff_02_LOD0",
+          "origin": [
+            -5.1436767578125,
+            -17.132339477539062,
+            479.87104892730713
+          ],
+          "size": [
+            4092.761474609375,
+            864.7716369628906,
+            1005.3207683563232
+          ],
+          "slots": [
+            "coastal_cliff_02"
+          ],
+          "nanite_enabled": true
+        },
+        {
+          "path": "/Game/Realism/WeaponTerrain/coastal_cliff_02/coastal_cliff_02_LOD1.coastal_cliff_02_LOD1",
+          "name": "coastal_cliff_02_LOD1",
+          "origin": [
+            -5.14434814453125,
+            -17.2242431640625,
+            479.9277219772339
+          ],
+          "size": [
+            4092.7601318359375,
+            864.5878295898438,
+            1005.3606204986572
+          ],
+          "slots": [
+            "coastal_cliff_02"
+          ],
+          "nanite_enabled": true
+        },
+        {
+          "path": "/Game/Realism/WeaponTerrain/coastal_cliff_02/coastal_cliff_02_LOD2.coastal_cliff_02_LOD2",
+          "name": "coastal_cliff_02_LOD2",
+          "origin": [
+            -5.14434814453125,
+            -16.975906372070312,
+            480.0171766281128
+          ],
+          "size": [
+            4092.7601318359375,
+            865.0845031738281,
+            1005.4987277984619
+          ],
+          "slots": [
+            "coastal_cliff_02"
+          ],
+          "nanite_enabled": true
+        },
+        {
+          "path": "/Game/Realism/WeaponTerrain/coastal_cliff_02/coastal_cliff_02_LOD3.coastal_cliff_02_LOD3",
+          "name": "coastal_cliff_02_LOD3",
+          "origin": [
+            -5.25982666015625,
+            -16.872085571289062,
+            479.95097160339355
+          ],
+          "size": [
+            4092.9910888671875,
+            865.2921447753906,
+            1005.3263282775879
+          ],
+          "slots": [
+            "coastal_cliff_02"
+          ],
+          "nanite_enabled": true
+        }
+      ],
+      "source_info": {
+        "name": "Coastal Cliff 02",
+        "type": 2,
+        "authors": {
+          "Rob Tuytel": "All"
+        },
+        "info": null,
+        "date_published": 1689724800,
+        "staging": null,
+        "lods": true,
+        "tags": [
+          "cliff",
+          "ocean",
+          "rocks",
+          "maritime",
+          "cove",
+          "formation",
+          "rock face",
+          "seaside",
+          "landscape"
+        ],
+        "categories": [
+          "nature",
+          "collection: smugglers_cove",
+          "collection: verdant_trail"
+        ],
+        "max_resolution": [
+          8192,
+          8192
+        ],
+        "polycount": 1768655,
+        "texel_density": 261.1445428351951,
+        "dimensions": [
+          40929.92401123047,
+          8652.921199798584,
+          10055.558755993843
+        ],
+        "sponsors": [
+          "26820710"
+        ],
+        "files_hash": "e7023dcb232d9a61fe2a7dadea40fc91a3299a1f",
+        "description": "Free 8K model of a rugged seaside cliff with weathered rock faces, crevices, layered strata and grassy top - high-detail, sea-worn coastal formation.",
+        "category_id": "f85e579c-2409-50c7-bac6-f3193d38593d",
+        "category": "Nature/Rocks & Stone/Cliffs & Rock Faces",
+        "collections": [
+          "smugglers_cove",
+          "verdant_trail"
+        ],
+        "attributes": {
+          "condition": [
+            "weathered"
+          ],
+          "material": [
+            "stone"
+          ],
+          "lods": true
+        },
+        "img_version": "c7e6c1e0",
+        "download_count": 16496,
+        "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/coastal_cliff_02.png?width=256&height=256&v=c7e6c1e0"
+      }
+    },
+    "snow_field_aerial": {
+      "textures": {
+        "Diffuse": "/Game/Realism/WeaponTerrain/snow_field_aerial/T_Diffuse.T_Diffuse",
+        "nor_dx": "/Game/Realism/WeaponTerrain/snow_field_aerial/T_nor_dx.T_nor_dx",
+        "AO": "/Game/Realism/WeaponTerrain/snow_field_aerial/T_AO.T_AO",
+        "Rough": "/Game/Realism/WeaponTerrain/snow_field_aerial/T_Rough.T_Rough"
+      },
+      "meshes": [],
+      "source_info": {
+        "scale": "80x80M",
+        "type": 1,
+        "tags": [
+          "snow",
+          "mud",
+          "field",
+          "uneven"
+        ],
+        "date_published": 1613393345,
+        "name": "Snow Field Aerial",
+        "old_id": 300,
+        "categories": [
+          "terrain",
+          "snow",
+          "outdoor",
+          "dirty",
+          "natural",
+          "aerial"
+        ],
+        "authors": {
+          "Rob Tuytel": "All"
+        },
+        "dimensions": [
+          80000,
+          80000
+        ],
+        "max_resolution": [
+          8192,
+          8192
+        ],
+        "files_hash": "8b68358190d77b84a36bbf447f4104701f125808",
+        "description": "Free 8K texture of an aerial snow field: patchy white snow over dark muddy soil, granular crust, uneven terrain and natural roughness.",
+        "category_id": "41640037-7e94-5a3e-bd1c-e77bd5605abe",
+        "category": "Ground & Terrain/Snow/Dirty & Muddy Snow",
+        "attributes": {
+          "surface_use": "ground",
+          "origin": "natural",
+          "setting": "outdoor",
+          "aerial": true,
+          "condition": [
+            "dirty"
+          ]
+        },
+        "img_version": "59804f48",
+        "download_count": 61502,
+        "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_field_aerial.png?width=256&height=256&v=59804f48"
+      }
+    },
+    "snow_02": {
+      "textures": {
+        "Diffuse": "/Game/Realism/WeaponTerrain/snow_02/T_Diffuse.T_Diffuse",
+        "nor_dx": "/Game/Realism/WeaponTerrain/snow_02/T_nor_dx.T_nor_dx",
+        "AO": "/Game/Realism/WeaponTerrain/snow_02/T_AO.T_AO",
+        "Rough": "/Game/Realism/WeaponTerrain/snow_02/T_Rough.T_Rough"
+      },
+      "meshes": [],
+      "source_info": {
+        "type": 1,
+        "date_published": 1548806533,
+        "name": "Snow 02",
+        "old_id": 188,
+        "categories": [
+          "terrain",
+          "natural",
+          "outdoor",
+          "snow"
+        ],
+        "authors": {
+          "Rob Tuytel": "All"
+        },
+        "dimensions": [
+          2000,
+          2000
+        ],
+        "sponsors": [
+          "3237733"
+        ],
+        "max_resolution": [
+          8192,
+          8192
+        ],
+        "files_hash": "a4bb49360f8e164e74ee396b76ac33c96d6282b7",
+        "tags": [
+          "snow",
+          "uneven",
+          "smooth",
+          "powdery",
+          "frosty",
+          "snowfield",
+          "soft",
+          "wintery"
+        ],
+        "description": "Free 8K texture of soft, powdery snow: smooth yet uneven drifts, frosty fine granularity, subtle ridges and sparse dark specks.",
+        "category_id": "b554e7e6-e9aa-5f27-a86a-a6af6942a6a8",
+        "category": "Ground & Terrain/Snow/Fresh Snow",
+        "attributes": {
+          "surface_use": "ground",
+          "origin": "natural",
+          "setting": "outdoor",
+          "condition": [
+            "clean"
+          ]
+        },
+        "img_version": "0c06ec15",
+        "download_count": 228246,
+        "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_02.png?width=256&height=256&v=0c06ec15"
+      }
+    }
+  }
+}

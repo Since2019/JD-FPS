@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Tools/play_tactical.py", line 28, in tick
+    session.update(dt)
+  File "C:\Users\Administrator\Documents\ChatGPT\类塔科夫军事游戏\Unreal\FactoryRaid\Tools\tactical_runtime.py", line 319, in update
+    if self.ai_time>=.10:self.update_ai(self.ai_time);self.ai_time=0
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\Documents\ChatGPT\类塔科夫军事游戏\Unreal\FactoryRaid\Tools\tactical_runtime.py", line 266, in update_ai
+    if not valid(npc) or npc.actor_has_tag('Dead') or prop(npc,'Current HP',1)<=0:
+           ^^^^^^^^^^
+  File "C:\Users\Administrator\Documents\ChatGPT\类塔科夫军事游戏\Unreal\FactoryRaid\Tools\tactical_runtime.py", line 13, in valid
+    def valid(obj):return obj is not None and u.SystemLibrary.is_valid(obj)
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: SystemLibrary: Failed to convert parameter 'object' when calling function 'KismetSystemLibrary.IsValid' on 'Default__KismetSystemLibrary'
+  TypeError: NativizeProperty: Cannot nativize 'Character' as 'Object' (ObjectProperty)
+    TypeError: NativizeObject: Cannot nativize 'Character' as 'Object' (allowed Class type: 'Object')
+      Exception: Character: Internal Error - ObjectInstance is null!

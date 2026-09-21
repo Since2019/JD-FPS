@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "enemies": 6,
+  "containers": 6,
+  "terrain_actors": 3,
+  "rifle_parts": 6,
+  "ammo_initial": 5,
+  "ads_error_cm": 5.1678331828096083e-05,
+  "ammo_after_hold": 4,
+  "ammo_after_reload": 5,
+  "switch_ammo_preserved": true
+}

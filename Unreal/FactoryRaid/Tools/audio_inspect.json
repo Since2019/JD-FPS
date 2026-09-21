@@ -1,0 +1,23 @@
+{
+  "EnableGameSound": "True",
+  "SoloAudioInFirstPIEClient": "True",
+  "CreateAudioDeviceForEveryPlayer": "False",
+  "bUseNonRealtimeAudioDevice": "Object: Property 'bUseNonRealtimeAudioDevice' for attribute 'bUseNonRealtimeAudioDevice' on 'LevelEditorPlaySettings' is protected and cannot be read",
+  "/Game/Factory/Audio/Step_Concrete": {
+    "duration": "0.3199999928474426",
+    "volume": "1.0",
+    "sound_class_object": "None",
+    "num_channels": "1",
+    "sample_rate": "44100",
+    "virtualization_mode": "<VirtualizationMode.RESTART: 2>"
+  },
+  "/Game/Weapons/GrenadeLauncher/Audio/FirstPersonTemplateWeaponFire02": {
+    "duration": "1.7021541595458984",
+    "volume": "0.05000000074505806",
+    "sound_class_object": "None",
+    "num_channels": "2",
+    "sample_rate": "44100",
+    "virtualization_mode": "<VirtualizationMode.RESTART: 2>"
+  },
+  "editor_audio_methods": []
+}

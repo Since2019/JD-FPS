@@ -1,0 +1,75 @@
+{
+  "assets": [
+    {
+      "id": "portable_generator",
+      "mesh": "/Game/Realism/PolyHaven/portable_generator/SM_portable_generator.SM_portable_generator",
+      "dimensions_cm": [
+        81.8340835571289,
+        56.400001525878906,
+        57.69232602370903
+      ],
+      "origin_cm": [
+        -0.5347061157226562,
+        0.0,
+        28.851968549424782
+      ],
+      "source_polycount": 26419,
+      "textures": {
+        "Diffuse": "/Game/Realism/PolyHaven/portable_generator/T_Diffuse.T_Diffuse",
+        "nor_dx": "/Game/Realism/PolyHaven/portable_generator/T_nor_dx.T_nor_dx",
+        "Rough": "/Game/Realism/PolyHaven/portable_generator/T_Rough.T_Rough",
+        "Metal": "/Game/Realism/PolyHaven/portable_generator/T_Metal.T_Metal",
+        "AO": "/Game/Realism/PolyHaven/portable_generator/T_AO.T_AO",
+        "Alpha": "/Game/Realism/PolyHaven/portable_generator/T_Alpha.T_Alpha"
+      },
+      "material_slots": 2
+    },
+    {
+      "id": "metal_tool_chest",
+      "mesh": "/Game/Realism/PolyHaven/metal_tool_chest/SM_metal_tool_chest.SM_metal_tool_chest",
+      "dimensions_cm": [
+        68.53884315490723,
+        40.71533012390137,
+        65.183563798666
+      ],
+      "origin_cm": [
+        -2.6742238998413086,
+        0.615412712097168,
+        32.67268343269825
+      ],
+      "source_polycount": 14576,
+      "textures": {
+        "Diffuse": "/Game/Realism/PolyHaven/metal_tool_chest/T_Diffuse.T_Diffuse",
+        "nor_dx": "/Game/Realism/PolyHaven/metal_tool_chest/T_nor_dx.T_nor_dx",
+        "Rough": "/Game/Realism/PolyHaven/metal_tool_chest/T_Rough.T_Rough",
+        "Metal": "/Game/Realism/PolyHaven/metal_tool_chest/T_Metal.T_Metal",
+        "AO": "/Game/Realism/PolyHaven/metal_tool_chest/T_AO.T_AO"
+      },
+      "material_slots": 1
+    },
+    {
+      "id": "old_military_crate",
+      "mesh": "/Game/Realism/PolyHaven/old_military_crate/SM_old_military_crate.SM_old_military_crate",
+      "dimensions_cm": [
+        181.53857421875,
+        97.57144165039062,
+        30.093283973052166
+      ],
+      "origin_cm": [
+        -0.5342864990234375,
+        -17.923622131347656,
+        15.045212108932901
+      ],
+      "source_polycount": 10476,
+      "textures": {
+        "Diffuse": "/Game/Realism/PolyHaven/old_military_crate/T_Diffuse.T_Diffuse",
+        "nor_dx": "/Game/Realism/PolyHaven/old_military_crate/T_nor_dx.T_nor_dx",
+        "Rough": "/Game/Realism/PolyHaven/old_military_crate/T_Rough.T_Rough",
+        "Metal": "/Game/Realism/PolyHaven/old_military_crate/T_Metal.T_Metal",
+        "AO": "/Game/Realism/PolyHaven/old_military_crate/T_AO.T_AO"
+      },
+      "material_slots": 1
+    }
+  ],
+  "passed": true
+}

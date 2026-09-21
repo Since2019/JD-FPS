@@ -1,0 +1,1884 @@
+{
+  "blend": {
+    "1k": {
+      "blend": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_1k.blend",
+        "md5": "0cd962031498b40c4a127e77db18ae36",
+        "size": 582000,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_1k.png",
+            "md5": "c7a2571b2727453c596fd763fbb1f392",
+            "size": 21207
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_1k.png",
+            "md5": "d0a8f3ee637584c1b8de220e49443398",
+            "size": 6258598
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_1k.png",
+            "md5": "98fb3d72f0fbeac8bacc13a70c3098ad",
+            "size": 800182
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_1k.png",
+            "md5": "5ad259651c64de2942408dd722f3168a",
+            "size": 5601639
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_1k.png",
+            "md5": "d2de81304a2fcf50155ad7fa79072da6",
+            "size": 2452406
+          },
+          "textures/bolt_action_rifle_7_62_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_1k.jpg",
+            "md5": "43bfcb606edaf9728d98db42e9b16f0a",
+            "size": 856375
+          },
+          "textures/bolt_action_rifle_7_62_metal_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_1k.exr",
+            "md5": "67455506da2075f2bd87dae84d869cdf",
+            "size": 396529
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_1k.exr",
+            "md5": "45622b510c749ae5570d9391154c24a7",
+            "size": 1502942
+          },
+          "textures/bolt_action_rifle_7_62_rough_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_1k.exr",
+            "md5": "5d8c1cb3f8e524e4475d0314f986730b",
+            "size": 808446
+          }
+        }
+      }
+    },
+    "2k": {
+      "blend": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_2k.blend",
+        "md5": "f69331017b78bc41bdb778b7d192d189",
+        "size": 582002,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_2k.png",
+            "md5": "8d8bf10c5cb39f1bbaf402ec11a67768",
+            "size": 66639
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_2k.png",
+            "md5": "e61b6eb7958f7a2ede6369415ffa8ed2",
+            "size": 23075747
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_2k.png",
+            "md5": "e45e5fb093c956c334383c811af10cc0",
+            "size": 2810960
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_2k.png",
+            "md5": "fe4204d82dd97d1e7abefe335414f368",
+            "size": 21878958
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_2k.png",
+            "md5": "2700b42c6b339983783c56443ecab0d4",
+            "size": 8728009
+          },
+          "textures/bolt_action_rifle_7_62_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_2k.jpg",
+            "md5": "ceb54adfb834f0db86118f0ccc11fc99",
+            "size": 3415930
+          },
+          "textures/bolt_action_rifle_7_62_metal_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_2k.exr",
+            "md5": "5a929023d0700e784868924f9be78319",
+            "size": 1275957
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_2k.exr",
+            "md5": "c90324ff803fffb24d5b8c7f8621617a",
+            "size": 5955459
+          },
+          "textures/bolt_action_rifle_7_62_rough_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_2k.exr",
+            "md5": "3d7f74bdaf37ae77e82ac7d3ba641840",
+            "size": 3091346
+          }
+        }
+      }
+    },
+    "4k": {
+      "blend": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_4k.blend",
+        "md5": "4c305ad81b65a97352fc1f9e9eace653",
+        "size": 582000,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_4k.png",
+            "md5": "5801db558b36f387e3f9bef184b52804",
+            "size": 216720
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_4k.png",
+            "md5": "e789d776406d4ff5089f4e2f3713498a",
+            "size": 85863729
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_4k.png",
+            "md5": "f9cc50d5926b6a609aefa9d69bf254a0",
+            "size": 9765875
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_4k.png",
+            "md5": "92a6c17c513aef059d51d2fd01adcea4",
+            "size": 84528391
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_4k.png",
+            "md5": "98074274f62562178a0d367bcf3e270f",
+            "size": 28355432
+          },
+          "textures/bolt_action_rifle_7_62_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_4k.jpg",
+            "md5": "81aa39eeb610d8523fd704f1fdb155dc",
+            "size": 13757410
+          },
+          "textures/bolt_action_rifle_7_62_metal_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_4k.exr",
+            "md5": "80c0d751838af4c7979f9825923c7171",
+            "size": 4355609
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_4k.exr",
+            "md5": "12ac897f57b1ac4069a3c0d5e1b4eae6",
+            "size": 22942224
+          },
+          "textures/bolt_action_rifle_7_62_rough_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_4k.exr",
+            "md5": "17fc8c62002f1936b7694b735eef83eb",
+            "size": 11969680
+          }
+        }
+      }
+    },
+    "8k": {
+      "blend": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_8k.blend",
+        "md5": "7c7817003904c731d24501d96bd3f980",
+        "size": 582000,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_8k.png",
+            "md5": "8e1b0b393d10972394546a9a9fdcc87e",
+            "size": 739517
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_8k.png",
+            "md5": "18a997c4baeaf7edd604bca81da4bb1e",
+            "size": 280602070
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_8k.png",
+            "md5": "566f24046a3b4a6cc6a63ebcaaaaf71e",
+            "size": 24173816
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_8k.png",
+            "md5": "2bcfb5dfd3415254507eb809370ffccb",
+            "size": 313410920
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_8k.png",
+            "md5": "7155e20a9ae41196380b30b8521c1180",
+            "size": 55291852
+          },
+          "textures/bolt_action_rifle_7_62_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_8k.jpg",
+            "md5": "4633229c9b3ac34869f4411ce309e523",
+            "size": 56657384
+          },
+          "textures/bolt_action_rifle_7_62_metal_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_8k.exr",
+            "md5": "e00a8363dc1d54b263451cb2a90feb84",
+            "size": 16249317
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_8k.exr",
+            "md5": "192cdcc1568d7558f62209e3f4cf4ba2",
+            "size": 87275108
+          },
+          "textures/bolt_action_rifle_7_62_rough_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_8k.exr",
+            "md5": "38488d8a561b1883a9b8fc033a99e8b9",
+            "size": 47450180
+          }
+        }
+      }
+    }
+  },
+  "accesories_alpha": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_1k.exr",
+        "md5": "8d79d319a7bb75b84f270bc924a3093d",
+        "size": 20392
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_1k.jpg",
+        "md5": "1a6aaf5d916799386ec7a4749730cace",
+        "size": 24964
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_1k.png",
+        "md5": "c7a2571b2727453c596fd763fbb1f392",
+        "size": 21207
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_2k.exr",
+        "md5": "49333806d3fd5d4a5f97a4d403fda546",
+        "size": 46590
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_2k.jpg",
+        "md5": "5f22ec70ee43b6ceb0c8ec936f25d3f9",
+        "size": 87503
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_2k.png",
+        "md5": "8d8bf10c5cb39f1bbaf402ec11a67768",
+        "size": 66639
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_4k.exr",
+        "md5": "84dbb3279a991f8d27fe7a7f753794c0",
+        "size": 127281
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_4k.jpg",
+        "md5": "0bdb0e86a374686f83631b591aeb4ac7",
+        "size": 326571
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_4k.png",
+        "md5": "5801db558b36f387e3f9bef184b52804",
+        "size": 216720
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_8k.exr",
+        "md5": "b7b9d4e532b27c355e15d9e3ba9bc275",
+        "size": 339376
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_8k.jpg",
+        "md5": "acb1685ea9cd3cc32d9dd9f16756f970",
+        "size": 1224623
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_8k.png",
+        "md5": "8e1b0b393d10972394546a9a9fdcc87e",
+        "size": 739517
+      }
+    }
+  },
+  "accesories_ao": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_1k.exr",
+        "md5": "2a6505929ce9f39d769cff89a77e4c32",
+        "size": 795861
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_1k.jpg",
+        "md5": "6dfe0060084afb1ce864eca1110dac60",
+        "size": 732738
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_1k.png",
+        "md5": "7157dd04f33a37e46e52e9e044d80f98",
+        "size": 2496268
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_2k.exr",
+        "md5": "4856f6f5030740a5ff5ce24eb45cae7e",
+        "size": 2711693
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_2k.jpg",
+        "md5": "05a398a430b2ca35967035ba8e4ddf97",
+        "size": 2540265
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_2k.png",
+        "md5": "57dd29d26cf6d58425ec60115a580084",
+        "size": 9094831
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_4k.exr",
+        "md5": "8d1293ca63f902811d706690ceff554b",
+        "size": 8550117
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_4k.jpg",
+        "md5": "2602ac53c65cd9a7016588d2afd44a4f",
+        "size": 8048272
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_4k.png",
+        "md5": "5f5ac2efd33197b5868e08776cbb396a",
+        "size": 30053619
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_8k.exr",
+        "md5": "c231af219eba045590025b7c7a5d6326",
+        "size": 22367487
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_8k.jpg",
+        "md5": "65082371a1d035cfe298ad06cfd999a4",
+        "size": 20269854
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_ao_8k.png",
+        "md5": "5d1cd4d94784fd18a2d35bd350223aee",
+        "size": 37796444
+      }
+    }
+  },
+  "accesories_arm": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_1k.exr",
+        "md5": "f552dac7009d3979f445a4babff5946e",
+        "size": 2127132
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_1k.jpg",
+        "md5": "47a110d72179aec84206e6331fc108a1",
+        "size": 984292
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_1k.png",
+        "md5": "f90d2039833c0817e65cf6872816351a",
+        "size": 4858504
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_2k.exr",
+        "md5": "4ac441aeff72e040eef4eedd5dd15b00",
+        "size": 7919065
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_2k.jpg",
+        "md5": "ef935481c60516ab5d1179b4ab4bf949",
+        "size": 3784622
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_2k.png",
+        "md5": "5a2e8e7c681361e838678054e9e47f34",
+        "size": 17552862
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_4k.exr",
+        "md5": "6ec705d238a9fa933e6def3cc671ed99",
+        "size": 28232697
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_4k.jpg",
+        "md5": "3e479fb0ade8735d074fdb178ef173da",
+        "size": 13786626
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_4k.png",
+        "md5": "beb3f9070dd288b7a7fd47f2f399d4e2",
+        "size": 58143375
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_8k.exr",
+        "md5": "cf2abc2ddd52b63a8da1d8ad90bf5a78",
+        "size": 96000676
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_8k.jpg",
+        "md5": "17ac4e03e2c05175392bd2dcc955aba1",
+        "size": 47965936
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_8k.png",
+        "md5": "df991d005b69b52027268bab43b63968",
+        "size": 110625944
+      }
+    }
+  },
+  "accesories_diff": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_1k.exr",
+        "md5": "a1feb0e846d00a05b4ba7fdf8503c6df",
+        "size": 1452842
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_1k.jpg",
+        "md5": "76b4134ecb47d62e76429dd16768403a",
+        "size": 878584
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_1k.png",
+        "md5": "d0a8f3ee637584c1b8de220e49443398",
+        "size": 6258598
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_2k.exr",
+        "md5": "ebc629aaa02957a8edb5dc8a530178c1",
+        "size": 5388238
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_2k.jpg",
+        "md5": "9ea79aa2f29b7407be9a7d55408b1b7c",
+        "size": 3369952
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_2k.png",
+        "md5": "e61b6eb7958f7a2ede6369415ffa8ed2",
+        "size": 23075747
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_4k.exr",
+        "md5": "7af1a32f4b69a090be7d3280ad0c01c5",
+        "size": 20081571
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_4k.jpg",
+        "md5": "0777a65b4f80e292ce6b5e9b97f9206a",
+        "size": 12288264
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_4k.png",
+        "md5": "e789d776406d4ff5089f4e2f3713498a",
+        "size": 85863729
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_8k.exr",
+        "md5": "e8af4ed344cb15216a8f7b2bbb4d2efd",
+        "size": 81283540
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_8k.jpg",
+        "md5": "4afbd82ac14248818740a277842aa007",
+        "size": 43900248
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_8k.png",
+        "md5": "18a997c4baeaf7edd604bca81da4bb1e",
+        "size": 280602070
+      }
+    }
+  },
+  "accesories_metal": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_1k.exr",
+        "md5": "3ad32ea4a50cba710d21d86d03e7cdf9",
+        "size": 332393
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_1k.jpg",
+        "md5": "fd9c592d24cc491399aaaf7cd1ade6d8",
+        "size": 270315
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_1k.png",
+        "md5": "98fb3d72f0fbeac8bacc13a70c3098ad",
+        "size": 800182
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_2k.exr",
+        "md5": "3530470a2f4b80628f8f08cff47166a6",
+        "size": 1088442
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_2k.jpg",
+        "md5": "064d116b9a4c8e47e752ff6c49b57793",
+        "size": 959246
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_2k.png",
+        "md5": "e45e5fb093c956c334383c811af10cc0",
+        "size": 2810960
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_4k.exr",
+        "md5": "644a6371f73e3f059af2700e31c52366",
+        "size": 3805446
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_4k.jpg",
+        "md5": "13801c366bb36dd07fead8f834f51c78",
+        "size": 3576563
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_4k.png",
+        "md5": "f9cc50d5926b6a609aefa9d69bf254a0",
+        "size": 9765875
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_8k.exr",
+        "md5": "f491cc38f43fb52f052991db9f6d40c7",
+        "size": 14593079
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_8k.jpg",
+        "md5": "8434332a9c7f86037527955e99fce111",
+        "size": 14506052
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_8k.png",
+        "md5": "566f24046a3b4a6cc6a63ebcaaaaf71e",
+        "size": 24173816
+      }
+    }
+  },
+  "accesories_nor_dx": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_1k.exr",
+        "md5": "03a985b35a974f20b001f2cc0ad54f4b",
+        "size": 2068723
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_1k.jpg",
+        "md5": "11dab0de43760bc99f9110357dc09b0d",
+        "size": 978481
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_1k.png",
+        "md5": "a880c3a3cce9e6809476e2ced137014f",
+        "size": 5602403
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_2k.exr",
+        "md5": "8e00082ad7f61f5cbd4e80d54b9eefdc",
+        "size": 8384510
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_2k.jpg",
+        "md5": "a2f90f7f16c37ea153203354e32a21e0",
+        "size": 4083073
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_2k.png",
+        "md5": "3d2888b6f0053afa382f23dbddfc2b09",
+        "size": 21882443
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_4k.exr",
+        "md5": "d5df3badbe596e6a730c478a0cc07437",
+        "size": 33090732
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_4k.jpg",
+        "md5": "ea4bae9feee1a43dc9f5a66152594e63",
+        "size": 16297607
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_4k.png",
+        "md5": "830eff92be232f420ede4423a21b85c5",
+        "size": 84531251
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_8k.exr",
+        "md5": "268efa2b95328b5f78f2db46d70946db",
+        "size": 124389743
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_8k.jpg",
+        "md5": "8c5056a43e7f99cec9978412d0fa4c53",
+        "size": 62832171
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_dx_8k.png",
+        "md5": "ee5e2aba2d1203b5e7ecebb2471997df",
+        "size": 313407786
+      }
+    }
+  },
+  "accesories_nor_gl": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_1k.exr",
+        "md5": "afd71f3d4fbd0e3321e9a6870e233232",
+        "size": 2052544
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_1k.jpg",
+        "md5": "61736b182ce7ff71780a406b486ee48e",
+        "size": 1007303
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_1k.png",
+        "md5": "5ad259651c64de2942408dd722f3168a",
+        "size": 5601639
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_2k.exr",
+        "md5": "5b40b937a5c4305a945f77b22850d61b",
+        "size": 8344753
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_2k.jpg",
+        "md5": "52447c39e8d34d88e9e7ab68a357765e",
+        "size": 4148604
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_2k.png",
+        "md5": "fe4204d82dd97d1e7abefe335414f368",
+        "size": 21878958
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_4k.exr",
+        "md5": "a68e0b263c6cd57de2f9869157a0128d",
+        "size": 32965554
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_4k.jpg",
+        "md5": "3c4366fe305d07b7ca3e5ea20596eb0e",
+        "size": 16261146
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_4k.png",
+        "md5": "92a6c17c513aef059d51d2fd01adcea4",
+        "size": 84528391
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_8k.exr",
+        "md5": "179d7cf0e259aa11527eb009dcd59d04",
+        "size": 123801277
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_8k.jpg",
+        "md5": "b6885a83c56a29b13726692450efab94",
+        "size": 60297873
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_8k.png",
+        "md5": "2bcfb5dfd3415254507eb809370ffccb",
+        "size": 313410920
+      }
+    }
+  },
+  "accesories_rough": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_1k.exr",
+        "md5": "d9043298f72dce407d4b2ebf98a5e500",
+        "size": 857732
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_1k.jpg",
+        "md5": "ba34c064d5635f80ec81f78a723fa5bc",
+        "size": 786969
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_1k.png",
+        "md5": "d2de81304a2fcf50155ad7fa79072da6",
+        "size": 2452406
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_2k.exr",
+        "md5": "887cc443d709a28cfc30b3fc83a00314",
+        "size": 3194690
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_2k.jpg",
+        "md5": "577a5722f03571a890d69ac9c76149cc",
+        "size": 3010897
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_2k.png",
+        "md5": "2700b42c6b339983783c56443ecab0d4",
+        "size": 8728009
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_4k.exr",
+        "md5": "d565ad6903d92b7c495c7925aec1cd45",
+        "size": 11497745
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_4k.jpg",
+        "md5": "13a2a9d2060ad06b788fd8f5f8aa6cce",
+        "size": 10889338
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_4k.png",
+        "md5": "98074274f62562178a0d367bcf3e270f",
+        "size": 28355432
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_8k.exr",
+        "md5": "4d865e73b3b7feb51a92922e3328be8f",
+        "size": 39893257
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_8k.jpg",
+        "md5": "eb4d9bf473140d33ed3c43c6863654da",
+        "size": 37926481
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_8k.png",
+        "md5": "7155e20a9ae41196380b30b8521c1180",
+        "size": 55291852
+      }
+    }
+  },
+  "AO": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_1k.exr",
+        "md5": "76957ffab394e37ed9568b45d8c43089",
+        "size": 433033
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_1k.jpg",
+        "md5": "36af9656263ecc87d8580353826b1d32",
+        "size": 357067
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_1k.png",
+        "md5": "40fab93a28669e74c2f4d446bd8ca5d5",
+        "size": 1335128
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_2k.exr",
+        "md5": "11f994cd7278dd59b4ebb92f6febdfdb",
+        "size": 1367326
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_2k.jpg",
+        "md5": "76bc84e5f6ee6cc00ed9924f537ee2b8",
+        "size": 1217327
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_2k.png",
+        "md5": "4a53eecb6495f003e79ed3efe3f0f433",
+        "size": 4558865
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_4k.exr",
+        "md5": "5469ca482d6e16e2b21064d241d0088e",
+        "size": 5123716
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_4k.jpg",
+        "md5": "10642d35274adb77da90e0d49c762c82",
+        "size": 4744476
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_4k.png",
+        "md5": "d2ea64915b4c43fa534475c88fece3a8",
+        "size": 13865368
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_8k.exr",
+        "md5": "0707c6551ff97191055e1aa5f73181a2",
+        "size": 23276298
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_8k.jpg",
+        "md5": "6df333b9933030abc0e8fa8ac7c25b3b",
+        "size": 20812453
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_ao_8k.png",
+        "md5": "2dea4c6ec3b8f3aff02d172b9a6c6461",
+        "size": 27380482
+      }
+    }
+  },
+  "arm": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_1k.exr",
+        "md5": "5e702344bf4b24de0a2a75d06a69642b",
+        "size": 2033275
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_1k.jpg",
+        "md5": "92d40c8aa17f54373a15e9c03e783ae6",
+        "size": 892057
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_1k.png",
+        "md5": "e0f9bc1996e55c1265cf14cb7e9e872f",
+        "size": 4377096
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_2k.exr",
+        "md5": "3df4375cc395bc4218d2139076cfcf99",
+        "size": 7779678
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_2k.jpg",
+        "md5": "46ebb7c87ed459c8650220201639d6c9",
+        "size": 3442254
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_2k.png",
+        "md5": "20227cc47d2dc7c0d4d369ad415c8a1c",
+        "size": 15809915
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_4k.exr",
+        "md5": "1eb6edfa31366a7e96328c5259d12b2d",
+        "size": 30405962
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_4k.jpg",
+        "md5": "aa01c6d5aa6df4e271b0e222b0051ca2",
+        "size": 13661003
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_4k.png",
+        "md5": "c0821ebab78ddea97fa9b748a99324e1",
+        "size": 53991538
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_8k.exr",
+        "md5": "9da1614298f00ffc910ab001419a1e47",
+        "size": 122415412
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_8k.jpg",
+        "md5": "81c9c5dcab1210225895810919bda89d",
+        "size": 55826774
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_8k.png",
+        "md5": "120ef088f6a554a3d26e639ad7b087df",
+        "size": 131326927
+      }
+    }
+  },
+  "Diffuse": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_1k.exr",
+        "md5": "58227b539d304d83267ce148fa14073e",
+        "size": 1849656
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_1k.jpg",
+        "md5": "43bfcb606edaf9728d98db42e9b16f0a",
+        "size": 856375
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_1k.png",
+        "md5": "18db6a517b69c0a029ead91f99c7d1ab",
+        "size": 5397538
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_2k.exr",
+        "md5": "5bd427a05249465e5a88032299e79003",
+        "size": 7345951
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_2k.jpg",
+        "md5": "ceb54adfb834f0db86118f0ccc11fc99",
+        "size": 3415930
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_2k.png",
+        "md5": "4ce5efd3a0aa62a7a461942e133461cd",
+        "size": 20429033
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_4k.exr",
+        "md5": "922476615a8c12dd82204f9503fa1b57",
+        "size": 29757437
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_4k.jpg",
+        "md5": "81aa39eeb610d8523fd704f1fdb155dc",
+        "size": 13757410
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_4k.png",
+        "md5": "8fc7baeec894803101aced507833c135",
+        "size": 77190563
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_8k.exr",
+        "md5": "d1235c42ade22b7b4acdc8e9ac3cd44b",
+        "size": 123471481
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_8k.jpg",
+        "md5": "4633229c9b3ac34869f4411ce309e523",
+        "size": 56657384
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_8k.png",
+        "md5": "0ae2b002ff8f4d5af02311ac0a617485",
+        "size": 262316435
+      }
+    }
+  },
+  "Metal": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_1k.exr",
+        "md5": "67455506da2075f2bd87dae84d869cdf",
+        "size": 396529
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_1k.jpg",
+        "md5": "5563f2a25d9b03650e2c979074118635",
+        "size": 321498
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_1k.png",
+        "md5": "86f24231d50c63fa422af4e3438d3202",
+        "size": 709230
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_2k.exr",
+        "md5": "5a929023d0700e784868924f9be78319",
+        "size": 1275957
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_2k.jpg",
+        "md5": "fa07e5fe161a6c79daf2f4694afb789c",
+        "size": 1123181
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_2k.png",
+        "md5": "e9c0ea7a19cebe145019f32e019db224",
+        "size": 2446120
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_4k.exr",
+        "md5": "80c0d751838af4c7979f9825923c7171",
+        "size": 4355609
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_4k.jpg",
+        "md5": "c57d555dfb297762f0cf73d1b037c138",
+        "size": 4093113
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_4k.png",
+        "md5": "0a852de7088a250207a5a017687e4ae6",
+        "size": 8070738
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_8k.exr",
+        "md5": "e00a8363dc1d54b263451cb2a90feb84",
+        "size": 16249317
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_8k.jpg",
+        "md5": "972d1b5e8de27ef3a5e00ac56834ac66",
+        "size": 16144247
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_8k.png",
+        "md5": "bea9bfa51ce2057a6598f3f615828844",
+        "size": 18984819
+      }
+    }
+  },
+  "nor_dx": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_1k.exr",
+        "md5": "4714483193f559498a12926c90b16f73",
+        "size": 1511875
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_1k.jpg",
+        "md5": "36314534dd411a7db34b7775fda9eb6c",
+        "size": 667619
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_1k.png",
+        "md5": "3c9ade6f42e906d2575023b808852bf6",
+        "size": 1398529
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_2k.exr",
+        "md5": "38d36795a8da2dd6298c4644178da938",
+        "size": 5989638
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_2k.jpg",
+        "md5": "38ef0a33c16423c6d019f4e4f41cf8cb",
+        "size": 2625233
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_2k.png",
+        "md5": "7392f4ea3ef4e6f583b561354f900a0d",
+        "size": 5664740
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_4k.exr",
+        "md5": "4ec13e5ec148b36698cfa4f3e94fb973",
+        "size": 23097041
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_4k.jpg",
+        "md5": "15b55d9d5eeae588dc3e92ce8fe0679a",
+        "size": 10460086
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_4k.png",
+        "md5": "515282945a35d9416527cf8f37abd3d5",
+        "size": 22299549
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_8k.exr",
+        "md5": "c1fa2f92de9798d6e2c4f2cbd6e5cbea",
+        "size": 87939683
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_8k.jpg",
+        "md5": "fc84b12b855250a63b151d3709d60828",
+        "size": 41091699
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_dx_8k.png",
+        "md5": "be61766647d494ad1672ac2c20ae469c",
+        "size": 79808559
+      }
+    }
+  },
+  "nor_gl": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_1k.exr",
+        "md5": "45622b510c749ae5570d9391154c24a7",
+        "size": 1502942
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_1k.jpg",
+        "md5": "427d4d0f2ead7a3beb7644922628efea",
+        "size": 670019
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_1k.png",
+        "md5": "7fc9beb37fa5fd33004f36685fb38d15",
+        "size": 1401619
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_2k.exr",
+        "md5": "c90324ff803fffb24d5b8c7f8621617a",
+        "size": 5955459
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_2k.jpg",
+        "md5": "ab4948c5fe878f99c7b78d459d8ce810",
+        "size": 2610578
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_2k.png",
+        "md5": "b2647f56843869b81191de72b12f9a75",
+        "size": 5659428
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_4k.exr",
+        "md5": "12ac897f57b1ac4069a3c0d5e1b4eae6",
+        "size": 22942224
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_4k.jpg",
+        "md5": "74c977cc465c0002ba9e1841dea95642",
+        "size": 10222104
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_4k.png",
+        "md5": "4ad4cc095bc7b7ed8876965f4c57edeb",
+        "size": 22243276
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_8k.exr",
+        "md5": "192cdcc1568d7558f62209e3f4cf4ba2",
+        "size": 87275108
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_8k.jpg",
+        "md5": "11ca4a66429bc741ec434710a5f47f31",
+        "size": 39275541
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_8k.png",
+        "md5": "4475db15c45c55f914dea5a60b4ed585",
+        "size": 80112391
+      }
+    }
+  },
+  "Rough": {
+    "1k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_1k.exr",
+        "md5": "5d8c1cb3f8e524e4475d0314f986730b",
+        "size": 808446
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_1k.jpg",
+        "md5": "297b20b4244ce1260ee3b7412f4799fe",
+        "size": 714940
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_1k.png",
+        "md5": "c0957b56221984aa1886a50ec8a570ed",
+        "size": 1811310
+      }
+    },
+    "2k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_2k.exr",
+        "md5": "3d7f74bdaf37ae77e82ac7d3ba641840",
+        "size": 3091346
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_2k.jpg",
+        "md5": "85434ce2701129d83a1cabbd8aeef671",
+        "size": 2845946
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_2k.png",
+        "md5": "c6bbf979e058911402cf62213740d875",
+        "size": 6849771
+      }
+    },
+    "4k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_4k.exr",
+        "md5": "17fc8c62002f1936b7694b735eef83eb",
+        "size": 11969680
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_4k.jpg",
+        "md5": "b111375be5a55e13062f6c3d17993762",
+        "size": 11428053
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_4k.png",
+        "md5": "58b19f31e1202e4de161f53e2f9241c1",
+        "size": 25115904
+      }
+    },
+    "8k": {
+      "exr": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_8k.exr",
+        "md5": "38488d8a561b1883a9b8fc033a99e8b9",
+        "size": 47450180
+      },
+      "jpg": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_8k.jpg",
+        "md5": "152d94086fa3aed656359f34e3c40da5",
+        "size": 46893115
+      },
+      "png": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_8k.png",
+        "md5": "9d6cfdd50ca91571c1606f13674cd3cb",
+        "size": 55746365
+      }
+    }
+  },
+  "fbx": {
+    "1k": {
+      "fbx": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_1k.fbx",
+        "md5": "540877b7d1c8fcaaad2c025ad299c4af",
+        "size": 788876,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_1k.png",
+            "md5": "c7a2571b2727453c596fd763fbb1f392",
+            "size": 21207
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_1k.png",
+            "md5": "d0a8f3ee637584c1b8de220e49443398",
+            "size": 6258598
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_1k.png",
+            "md5": "98fb3d72f0fbeac8bacc13a70c3098ad",
+            "size": 800182
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_1k.png",
+            "md5": "5ad259651c64de2942408dd722f3168a",
+            "size": 5601639
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_1k.png",
+            "md5": "d2de81304a2fcf50155ad7fa79072da6",
+            "size": 2452406
+          },
+          "textures/bolt_action_rifle_7_62_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_1k.jpg",
+            "md5": "43bfcb606edaf9728d98db42e9b16f0a",
+            "size": 856375
+          },
+          "textures/bolt_action_rifle_7_62_metal_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_1k.exr",
+            "md5": "67455506da2075f2bd87dae84d869cdf",
+            "size": 396529
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_1k.exr",
+            "md5": "45622b510c749ae5570d9391154c24a7",
+            "size": 1502942
+          },
+          "textures/bolt_action_rifle_7_62_rough_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_1k.exr",
+            "md5": "5d8c1cb3f8e524e4475d0314f986730b",
+            "size": 808446
+          }
+        }
+      }
+    },
+    "2k": {
+      "fbx": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_2k.fbx",
+        "md5": "66867120cf7bd1b5bf8352afce7622df",
+        "size": 788876,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_2k.png",
+            "md5": "8d8bf10c5cb39f1bbaf402ec11a67768",
+            "size": 66639
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_2k.png",
+            "md5": "e61b6eb7958f7a2ede6369415ffa8ed2",
+            "size": 23075747
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_2k.png",
+            "md5": "e45e5fb093c956c334383c811af10cc0",
+            "size": 2810960
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_2k.png",
+            "md5": "fe4204d82dd97d1e7abefe335414f368",
+            "size": 21878958
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_2k.png",
+            "md5": "2700b42c6b339983783c56443ecab0d4",
+            "size": 8728009
+          },
+          "textures/bolt_action_rifle_7_62_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_2k.jpg",
+            "md5": "ceb54adfb834f0db86118f0ccc11fc99",
+            "size": 3415930
+          },
+          "textures/bolt_action_rifle_7_62_metal_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_2k.exr",
+            "md5": "5a929023d0700e784868924f9be78319",
+            "size": 1275957
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_2k.exr",
+            "md5": "c90324ff803fffb24d5b8c7f8621617a",
+            "size": 5955459
+          },
+          "textures/bolt_action_rifle_7_62_rough_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_2k.exr",
+            "md5": "3d7f74bdaf37ae77e82ac7d3ba641840",
+            "size": 3091346
+          }
+        }
+      }
+    },
+    "4k": {
+      "fbx": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_4k.fbx",
+        "md5": "a75d44e6cba20e7e9694de60697a02af",
+        "size": 788876,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_4k.png",
+            "md5": "5801db558b36f387e3f9bef184b52804",
+            "size": 216720
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_4k.png",
+            "md5": "e789d776406d4ff5089f4e2f3713498a",
+            "size": 85863729
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_4k.png",
+            "md5": "f9cc50d5926b6a609aefa9d69bf254a0",
+            "size": 9765875
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_4k.png",
+            "md5": "92a6c17c513aef059d51d2fd01adcea4",
+            "size": 84528391
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_4k.png",
+            "md5": "98074274f62562178a0d367bcf3e270f",
+            "size": 28355432
+          },
+          "textures/bolt_action_rifle_7_62_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_4k.jpg",
+            "md5": "81aa39eeb610d8523fd704f1fdb155dc",
+            "size": 13757410
+          },
+          "textures/bolt_action_rifle_7_62_metal_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_4k.exr",
+            "md5": "80c0d751838af4c7979f9825923c7171",
+            "size": 4355609
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_4k.exr",
+            "md5": "12ac897f57b1ac4069a3c0d5e1b4eae6",
+            "size": 22942224
+          },
+          "textures/bolt_action_rifle_7_62_rough_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_4k.exr",
+            "md5": "17fc8c62002f1936b7694b735eef83eb",
+            "size": 11969680
+          }
+        }
+      }
+    },
+    "8k": {
+      "fbx": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_8k.fbx",
+        "md5": "62f1c59dce98a62a1ad45fb46e4cc3a7",
+        "size": 788876,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_8k.png",
+            "md5": "8e1b0b393d10972394546a9a9fdcc87e",
+            "size": 739517
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_8k.png",
+            "md5": "18a997c4baeaf7edd604bca81da4bb1e",
+            "size": 280602070
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_8k.png",
+            "md5": "566f24046a3b4a6cc6a63ebcaaaaf71e",
+            "size": 24173816
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_8k.png",
+            "md5": "2bcfb5dfd3415254507eb809370ffccb",
+            "size": 313410920
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_8k.png",
+            "md5": "7155e20a9ae41196380b30b8521c1180",
+            "size": 55291852
+          },
+          "textures/bolt_action_rifle_7_62_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_8k.jpg",
+            "md5": "4633229c9b3ac34869f4411ce309e523",
+            "size": 56657384
+          },
+          "textures/bolt_action_rifle_7_62_metal_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_8k.exr",
+            "md5": "e00a8363dc1d54b263451cb2a90feb84",
+            "size": 16249317
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_8k.exr",
+            "md5": "192cdcc1568d7558f62209e3f4cf4ba2",
+            "size": 87275108
+          },
+          "textures/bolt_action_rifle_7_62_rough_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_8k.exr",
+            "md5": "38488d8a561b1883a9b8fc033a99e8b9",
+            "size": 47450180
+          }
+        }
+      }
+    }
+  },
+  "gltf": {
+    "1k": {
+      "gltf": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_1k.gltf",
+        "md5": "1344ef06910be854e5b37657fb989b00",
+        "size": 15369,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_1k.jpg",
+            "md5": "61736b182ce7ff71780a406b486ee48e",
+            "size": 1007303
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_1k.jpg",
+            "md5": "76b4134ecb47d62e76429dd16768403a",
+            "size": 878584
+          },
+          "textures/bolt_action_rifle_7_62_accesories_arm_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_1k.jpg",
+            "md5": "47a110d72179aec84206e6331fc108a1",
+            "size": 984292
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_1k.jpg",
+            "md5": "427d4d0f2ead7a3beb7644922628efea",
+            "size": 670019
+          },
+          "textures/bolt_action_rifle_7_62_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_1k.jpg",
+            "md5": "43bfcb606edaf9728d98db42e9b16f0a",
+            "size": 856375
+          },
+          "textures/bolt_action_rifle_7_62_arm_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_1k.jpg",
+            "md5": "92d40c8aa17f54373a15e9c03e783ae6",
+            "size": 892057
+          },
+          "bolt_action_rifle_7_62.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62.bin",
+            "md5": "8fe1b75cc0ffe2e527dd9b66bc0d9517",
+            "size": 736616
+          }
+        }
+      }
+    },
+    "2k": {
+      "gltf": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_2k.gltf",
+        "md5": "81de79907f764e957e90c763259f123a",
+        "size": 15369,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_2k.jpg",
+            "md5": "52447c39e8d34d88e9e7ab68a357765e",
+            "size": 4148604
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_2k.jpg",
+            "md5": "9ea79aa2f29b7407be9a7d55408b1b7c",
+            "size": 3369952
+          },
+          "textures/bolt_action_rifle_7_62_accesories_arm_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_2k.jpg",
+            "md5": "ef935481c60516ab5d1179b4ab4bf949",
+            "size": 3784622
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_2k.jpg",
+            "md5": "ab4948c5fe878f99c7b78d459d8ce810",
+            "size": 2610578
+          },
+          "textures/bolt_action_rifle_7_62_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_2k.jpg",
+            "md5": "ceb54adfb834f0db86118f0ccc11fc99",
+            "size": 3415930
+          },
+          "textures/bolt_action_rifle_7_62_arm_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_2k.jpg",
+            "md5": "46ebb7c87ed459c8650220201639d6c9",
+            "size": 3442254
+          },
+          "bolt_action_rifle_7_62.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62.bin",
+            "md5": "8fe1b75cc0ffe2e527dd9b66bc0d9517",
+            "size": 736616
+          }
+        }
+      }
+    },
+    "4k": {
+      "gltf": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_4k.gltf",
+        "md5": "00559912eb8fa5edf8d166cba0ada852",
+        "size": 15369,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_4k.jpg",
+            "md5": "3c4366fe305d07b7ca3e5ea20596eb0e",
+            "size": 16261146
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_4k.jpg",
+            "md5": "0777a65b4f80e292ce6b5e9b97f9206a",
+            "size": 12288264
+          },
+          "textures/bolt_action_rifle_7_62_accesories_arm_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_4k.jpg",
+            "md5": "3e479fb0ade8735d074fdb178ef173da",
+            "size": 13786626
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_4k.jpg",
+            "md5": "74c977cc465c0002ba9e1841dea95642",
+            "size": 10222104
+          },
+          "textures/bolt_action_rifle_7_62_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_4k.jpg",
+            "md5": "81aa39eeb610d8523fd704f1fdb155dc",
+            "size": 13757410
+          },
+          "textures/bolt_action_rifle_7_62_arm_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_4k.jpg",
+            "md5": "aa01c6d5aa6df4e271b0e222b0051ca2",
+            "size": 13661003
+          },
+          "bolt_action_rifle_7_62.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62.bin",
+            "md5": "8fe1b75cc0ffe2e527dd9b66bc0d9517",
+            "size": 736616
+          }
+        }
+      }
+    },
+    "8k": {
+      "gltf": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_8k.gltf",
+        "md5": "3252e28ee6a32e7e9cc58fef968ff21b",
+        "size": 15369,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_8k.jpg",
+            "md5": "b6885a83c56a29b13726692450efab94",
+            "size": 60297873
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_8k.jpg",
+            "md5": "4afbd82ac14248818740a277842aa007",
+            "size": 43900248
+          },
+          "textures/bolt_action_rifle_7_62_accesories_arm_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_arm_8k.jpg",
+            "md5": "17ac4e03e2c05175392bd2dcc955aba1",
+            "size": 47965936
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_8k.jpg",
+            "md5": "11ca4a66429bc741ec434710a5f47f31",
+            "size": 39275541
+          },
+          "textures/bolt_action_rifle_7_62_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_8k.jpg",
+            "md5": "4633229c9b3ac34869f4411ce309e523",
+            "size": 56657384
+          },
+          "textures/bolt_action_rifle_7_62_arm_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_arm_8k.jpg",
+            "md5": "81c9c5dcab1210225895810919bda89d",
+            "size": 55826774
+          },
+          "bolt_action_rifle_7_62.bin": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62.bin",
+            "md5": "8fe1b75cc0ffe2e527dd9b66bc0d9517",
+            "size": 736616
+          }
+        }
+      }
+    }
+  },
+  "usd": {
+    "1k": {
+      "usd": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_1k.usdc",
+        "md5": "e5d18b49c394d6173abfb7b0f3917fc5",
+        "size": 1170673,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_1k.png",
+            "md5": "c7a2571b2727453c596fd763fbb1f392",
+            "size": 21207
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_1k.png",
+            "md5": "d0a8f3ee637584c1b8de220e49443398",
+            "size": 6258598
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_1k.png",
+            "md5": "98fb3d72f0fbeac8bacc13a70c3098ad",
+            "size": 800182
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_1k.png",
+            "md5": "5ad259651c64de2942408dd722f3168a",
+            "size": 5601639
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_1k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_1k.png",
+            "md5": "d2de81304a2fcf50155ad7fa79072da6",
+            "size": 2452406
+          },
+          "textures/bolt_action_rifle_7_62_diff_1k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_1k.jpg",
+            "md5": "43bfcb606edaf9728d98db42e9b16f0a",
+            "size": 856375
+          },
+          "textures/bolt_action_rifle_7_62_metal_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_1k.exr",
+            "md5": "67455506da2075f2bd87dae84d869cdf",
+            "size": 396529
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_1k.exr",
+            "md5": "45622b510c749ae5570d9391154c24a7",
+            "size": 1502942
+          },
+          "textures/bolt_action_rifle_7_62_rough_1k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_1k.exr",
+            "md5": "5d8c1cb3f8e524e4475d0314f986730b",
+            "size": 808446
+          }
+        }
+      }
+    },
+    "2k": {
+      "usd": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_2k.usdc",
+        "md5": "f3827da2a79acae88c6c5cdec3efd235",
+        "size": 1170676,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_2k.png",
+            "md5": "8d8bf10c5cb39f1bbaf402ec11a67768",
+            "size": 66639
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_2k.png",
+            "md5": "e61b6eb7958f7a2ede6369415ffa8ed2",
+            "size": 23075747
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_2k.png",
+            "md5": "e45e5fb093c956c334383c811af10cc0",
+            "size": 2810960
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_2k.png",
+            "md5": "fe4204d82dd97d1e7abefe335414f368",
+            "size": 21878958
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_2k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_2k.png",
+            "md5": "2700b42c6b339983783c56443ecab0d4",
+            "size": 8728009
+          },
+          "textures/bolt_action_rifle_7_62_diff_2k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_2k.jpg",
+            "md5": "ceb54adfb834f0db86118f0ccc11fc99",
+            "size": 3415930
+          },
+          "textures/bolt_action_rifle_7_62_metal_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_2k.exr",
+            "md5": "5a929023d0700e784868924f9be78319",
+            "size": 1275957
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_2k.exr",
+            "md5": "c90324ff803fffb24d5b8c7f8621617a",
+            "size": 5955459
+          },
+          "textures/bolt_action_rifle_7_62_rough_2k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_2k.exr",
+            "md5": "3d7f74bdaf37ae77e82ac7d3ba641840",
+            "size": 3091346
+          }
+        }
+      }
+    },
+    "4k": {
+      "usd": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_4k.usdc",
+        "md5": "c25a5a5c63ea7cadd8dccc84d29d62ab",
+        "size": 1170673,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_4k.png",
+            "md5": "5801db558b36f387e3f9bef184b52804",
+            "size": 216720
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_4k.png",
+            "md5": "e789d776406d4ff5089f4e2f3713498a",
+            "size": 85863729
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_4k.png",
+            "md5": "f9cc50d5926b6a609aefa9d69bf254a0",
+            "size": 9765875
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_4k.png",
+            "md5": "92a6c17c513aef059d51d2fd01adcea4",
+            "size": 84528391
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_4k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_4k.png",
+            "md5": "98074274f62562178a0d367bcf3e270f",
+            "size": 28355432
+          },
+          "textures/bolt_action_rifle_7_62_diff_4k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_4k.jpg",
+            "md5": "81aa39eeb610d8523fd704f1fdb155dc",
+            "size": 13757410
+          },
+          "textures/bolt_action_rifle_7_62_metal_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_4k.exr",
+            "md5": "80c0d751838af4c7979f9825923c7171",
+            "size": 4355609
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_4k.exr",
+            "md5": "12ac897f57b1ac4069a3c0d5e1b4eae6",
+            "size": 22942224
+          },
+          "textures/bolt_action_rifle_7_62_rough_4k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_4k.exr",
+            "md5": "17fc8c62002f1936b7694b735eef83eb",
+            "size": 11969680
+          }
+        }
+      }
+    },
+    "8k": {
+      "usd": {
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_8k.usdc",
+        "md5": "76287428f69be671660a4ba9e135882b",
+        "size": 1170673,
+        "include": {
+          "textures/bolt_action_rifle_7_62_accesories_alpha_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_alpha_8k.png",
+            "md5": "8e1b0b393d10972394546a9a9fdcc87e",
+            "size": 739517
+          },
+          "textures/bolt_action_rifle_7_62_accesories_diff_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_diff_8k.png",
+            "md5": "18a997c4baeaf7edd604bca81da4bb1e",
+            "size": 280602070
+          },
+          "textures/bolt_action_rifle_7_62_accesories_metal_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_metal_8k.png",
+            "md5": "566f24046a3b4a6cc6a63ebcaaaaf71e",
+            "size": 24173816
+          },
+          "textures/bolt_action_rifle_7_62_accesories_nor_gl_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_nor_gl_8k.png",
+            "md5": "2bcfb5dfd3415254507eb809370ffccb",
+            "size": 313410920
+          },
+          "textures/bolt_action_rifle_7_62_accesories_rough_8k.png": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_accesories_rough_8k.png",
+            "md5": "7155e20a9ae41196380b30b8521c1180",
+            "size": 55291852
+          },
+          "textures/bolt_action_rifle_7_62_diff_8k.jpg": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_diff_8k.jpg",
+            "md5": "4633229c9b3ac34869f4411ce309e523",
+            "size": 56657384
+          },
+          "textures/bolt_action_rifle_7_62_metal_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_metal_8k.exr",
+            "md5": "e00a8363dc1d54b263451cb2a90feb84",
+            "size": 16249317
+          },
+          "textures/bolt_action_rifle_7_62_nor_gl_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_nor_gl_8k.exr",
+            "md5": "192cdcc1568d7558f62209e3f4cf4ba2",
+            "size": 87275108
+          },
+          "textures/bolt_action_rifle_7_62_rough_8k.exr": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/bolt_action_rifle_7_62/bolt_action_rifle_7_62_rough_8k.exr",
+            "md5": "38488d8a561b1883a9b8fc033a99e8b9",
+            "size": 47450180
+          }
+        }
+      }
+    }
+  }
+}

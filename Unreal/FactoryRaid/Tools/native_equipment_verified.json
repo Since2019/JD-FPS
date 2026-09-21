@@ -1,0 +1,81 @@
+{
+  "passed": true,
+  "verified_at": "2026-09-09T18:36:28.046599",
+  "method": "Native Windows mouse drag and keyboard input, observed UMG and runtime state",
+  "helmet_drag_equipped": true,
+  "second_primary_drag_equipped": true,
+  "number_1_selects_primary1": true,
+  "click_primary2_selects_primary2": true,
+  "independent_ammo": [
+    18,
+    21
+  ],
+  "ai_survives_destroyed_npcs": true,
+  "runtime": {
+    "clock": 122.35426129624247,
+    "inventory": true,
+    "selected": "primary2",
+    "slots": {
+      "head": "FAST 风格头盔",
+      "primary1": "MK18 风格步枪",
+      "primary2": "MK18 风格步枪"
+    },
+    "ammo": 21,
+    "pack": [
+      "医疗包"
+    ],
+    "events": [
+      {
+        "event": "press",
+        "side": "Pack",
+        "pointer": [
+          268.09582592946964,
+          448.2349046610169
+        ]
+      },
+      {
+        "event": "release",
+        "pointer": [
+          527.7917407053035,
+          179.54186457763805
+        ],
+        "drag": true
+      },
+      {
+        "event": "press",
+        "side": "Pack",
+        "pointer": [
+          125.29805178717878,
+          188.63825861126298
+        ]
+      },
+      {
+        "event": "release",
+        "pointer": [
+          125.29805178717878,
+          188.63825861126298
+        ],
+        "drag": true
+      },
+      {
+        "event": "press",
+        "side": "primary2",
+        "pointer": [
+          501.192164434117,
+          192.83654831875342
+        ]
+      },
+      {
+        "event": "release",
+        "pointer": [
+          501.192164434117,
+          192.83654831875342
+        ],
+        "drag": true
+      }
+    ],
+    "drag": false,
+    "corpses": 6,
+    "ai_enabled": true
+  }
+}

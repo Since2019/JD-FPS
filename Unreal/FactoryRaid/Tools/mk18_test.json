@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "weapons_replaced": 7,
+  "muzzle_local": "<Struct 'Transform' (0x000001EFEC1F7540) {rotation: {x: 0.000001, y: -0.000001, z: 0.707107, w: 0.707107}, translation: {x: 0.000000, y: 50.923079, z: 9.885327}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+  "original_mesh_material": "<Object '/Game/Factory/Visual3/Materials/M_HiddenTemplate.M_HiddenTemplate' (0x000001F00A746200) Class 'Material'>",
+  "ads_error_cm": 1.286499309668725e-05,
+  "ammo_before_run": 40,
+  "run_pose": {
+    "alpha": 0.9999999085625945,
+    "ads": 1.590027959058061e-09,
+    "hand": [
+      13.040632088663187,
+      17.163739904350223,
+      -22.428308087589528
+    ]
+  },
+  "run_bob_range_cm": 1.1056553484048308,
+  "recovered_ads": true,
+  "ammo_before_fire": 40,
+  "ammo_after_fire": 30,
+  "late_hud_removed": true
+}

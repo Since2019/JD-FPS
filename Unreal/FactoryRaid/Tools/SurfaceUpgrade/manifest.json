@@ -1,0 +1,250 @@
+[
+  {
+    "id": "blue_metal_plate",
+    "info": {
+      "name": "Blue Metal Plate",
+      "type": 1,
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "max_resolution": [
+        16384,
+        16384
+      ],
+      "dimensions": [
+        2500,
+        2500
+      ],
+      "date_published": 1727308800,
+      "staging": null,
+      "files_hash": "37d120553f33bcc1db86a58a32f9159f06dfe329",
+      "tags": [
+        "scratched",
+        "metal sheet",
+        "metal",
+        "painted",
+        "industrial",
+        "scratches",
+        "scuffed",
+        "steel panel",
+        "abrasion marks",
+        "blue",
+        "metal plate"
+      ],
+      "categories": [
+        "metal",
+        "industrial"
+      ],
+      "description": "Free 16K texture of painted blue steel plate with scuffs, fine scratches, abrasion marks and seam lines; semi-gloss, worn industrial surface.",
+      "category_id": "733fc0a1-302e-50f0-bd83-79d7fd8f3f1e",
+      "category": "Metal/Sheet & Corrugated/Flat Sheet",
+      "attributes": {
+        "surface_use": "wall",
+        "condition": [
+          "painted",
+          "worn"
+        ],
+        "origin": "man_made",
+        "setting": "outdoor"
+      },
+      "img_version": "0e02b3a2",
+      "download_count": 92900,
+      "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/blue_metal_plate.png?width=256&height=256&v=0e02b3a2"
+    },
+    "source": "https://polyhaven.com/a/blue_metal_plate",
+    "license": "CC0",
+    "files": {
+      "Diffuse": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\blue_metal_plate_Diffuse.jpg",
+        "size": 5753951,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/blue_metal_plate/blue_metal_plate_diff_4k.jpg",
+        "md5": "50d428a4c90d0c1a158e7b9d6521d624"
+      },
+      "nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\blue_metal_plate_nor_dx.jpg",
+        "size": 4193669,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/blue_metal_plate/blue_metal_plate_nor_dx_4k.jpg",
+        "md5": "8bc67db396b3029d407a3ede84eff7d8"
+      },
+      "Rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\blue_metal_plate_Rough.jpg",
+        "size": 6219260,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/blue_metal_plate/blue_metal_plate_rough_4k.jpg",
+        "md5": "7181637d17fa6fca25af0c00741be7ac"
+      },
+      "AO": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\blue_metal_plate_AO.jpg",
+        "size": 339271,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/blue_metal_plate/blue_metal_plate_ao_4k.jpg",
+        "md5": "c056555da4dcd9b53b7055f148afe78f"
+      }
+    }
+  },
+  {
+    "id": "concrete_floor_02",
+    "info": {
+      "type": 1,
+      "tags": [
+        "rough",
+        "moss",
+        "plain"
+      ],
+      "date_published": 1536018406,
+      "name": "Concrete Floor 02",
+      "old_id": 158,
+      "categories": [
+        "concrete",
+        "plaster-concrete",
+        "dirty",
+        "man made",
+        "outdoor",
+        "indoor",
+        "wall",
+        "floor"
+      ],
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "max_resolution": [
+        8192,
+        8192
+      ],
+      "files_hash": "b047f5c1c115638de280913cdfb646c35048e503",
+      "description": "Free 8K concrete texture showing a rough, weathered floor with moss-stained, dirty gray-brown surface, subtle pitting, scuffs and worn patches.",
+      "category_id": "0a7b70c3-bc79-531b-8cf3-cadeb4cbf686",
+      "category": "Concrete/Cast Walls & Floors/Bare Cast",
+      "attributes": {
+        "surface_use": "floor",
+        "condition": [
+          "weathered",
+          "worn",
+          "mossy"
+        ],
+        "origin": "man_made",
+        "setting": "either"
+      },
+      "img_version": "18eb52c0",
+      "download_count": 193972,
+      "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_floor_02.png?width=256&height=256&v=18eb52c0"
+    },
+    "source": "https://polyhaven.com/a/concrete_floor_02",
+    "license": "CC0",
+    "files": {
+      "Diffuse": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\concrete_floor_02_Diffuse.jpg",
+        "size": 12425225,
+        "md5": "48169d69989257ba6ab15dec3e2a7c62",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_floor_02/concrete_floor_02_diff_4k.jpg"
+      },
+      "nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\concrete_floor_02_nor_dx.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_floor_02/concrete_floor_02_nor_dx_4k.jpg",
+        "size": 3750429,
+        "md5": "52079cd6826d35860b6b4f5c75ef8cd4"
+      },
+      "Rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\concrete_floor_02_Rough.jpg",
+        "size": 4998341,
+        "md5": "43dafd49aabcdc27f746762a923544de",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_floor_02/concrete_floor_02_rough_4k.jpg"
+      },
+      "AO": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\concrete_floor_02_AO.jpg",
+        "size": 8116784,
+        "md5": "f386eb501e4cdfe19fe7718b578e25b0",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_floor_02/concrete_floor_02_ao_4k.jpg"
+      }
+    }
+  },
+  {
+    "id": "concrete_wall_006",
+    "info": {
+      "name": "Concrete Wall 006",
+      "categories": [
+        "man made",
+        "wall",
+        "dirty",
+        "plaster-concrete",
+        "concrete"
+      ],
+      "type": 1,
+      "tags": [
+        "rough",
+        "weathered",
+        "damaged",
+        "chipped",
+        "wall",
+        "stained",
+        "dirty",
+        "scratched",
+        "plaster",
+        "concrete"
+      ],
+      "authors": {
+        "Dario Barresi": "Processing",
+        "Charlotte Baglioni": "Photography"
+      },
+      "info": null,
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "date_published": 1663027200,
+      "staging": null,
+      "max_resolution": [
+        8192,
+        8192
+      ],
+      "files_hash": "a385d018de460aaa340cf2dff49b1651c69273b8",
+      "description": "Free 8K texture of weathered concrete wall: rough, chipped plaster with pitted holes, scratches and stains, coarse gritty surface and horizontal form marks.",
+      "category_id": "ebaa964c-b45c-52e2-bd50-892d64616d87",
+      "category": "Concrete/Plaster & Stucco/Bare Plaster",
+      "attributes": {
+        "surface_use": "wall",
+        "condition": [
+          "weathered",
+          "damaged",
+          "cracked",
+          "worn"
+        ],
+        "origin": "man_made",
+        "setting": "outdoor"
+      },
+      "img_version": "a2b03031",
+      "download_count": 44360,
+      "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_wall_006.png?width=256&height=256&v=a2b03031"
+    },
+    "source": "https://polyhaven.com/a/concrete_wall_006",
+    "license": "CC0",
+    "files": {
+      "Diffuse": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\concrete_wall_006_Diffuse.jpg",
+        "size": 11141472,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_wall_006/concrete_wall_006_diff_4k.jpg",
+        "md5": "1725d87b13e468dcee4a6890bffc89a0"
+      },
+      "nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\concrete_wall_006_nor_dx.jpg",
+        "size": 19133196,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_wall_006/concrete_wall_006_nor_dx_4k.jpg",
+        "md5": "571fa6f5d8f9ec29ec75a503b63f8227"
+      },
+      "Rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\concrete_wall_006_Rough.jpg",
+        "size": 3966520,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_wall_006/concrete_wall_006_rough_4k.jpg",
+        "md5": "0b2f164e35e60d495e62d3736c06073d"
+      },
+      "AO": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\SurfaceUpgrade\\concrete_wall_006_AO.jpg",
+        "size": 16083310,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_wall_006/concrete_wall_006_ao_4k.jpg",
+        "md5": "ac10e9912a3d5f6e5b1cb4f0053dd402"
+      }
+    }
+  }
+]

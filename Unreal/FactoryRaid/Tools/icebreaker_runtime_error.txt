@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Tools/play_icebreaker.py", line 26, in tick
+    session=TacticalSession(world,player)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\Documents\ChatGPT\类塔科夫军事游戏\Unreal\FactoryRaid\Tools\tactical_runtime.py", line 38, in __init__
+    self.camera=next(c for c in player.get_components_by_class(u.CameraComponent) if 'FirstPerson' in c.get_name())
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+StopIteration

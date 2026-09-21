@@ -1,0 +1,320 @@
+[
+  {
+    "id": "portable_generator",
+    "source": "https://polyhaven.com/a/portable_generator",
+    "license": "CC0",
+    "license_url": "https://polyhaven.com/license",
+    "info": {
+      "type": 2,
+      "name": "Portable Generator",
+      "categories": [
+        "industrial",
+        "appliances",
+        "collection: project_lighthouse"
+      ],
+      "category": "Industrial & Infrastructure/Utility Equipment",
+      "tags": [
+        "gasoline",
+        "backup power",
+        "construction equipment",
+        "power generator",
+        "petrol",
+        "garage",
+        "power",
+        "engine"
+      ],
+      "description": "Free 8K model of a rugged yellow portable generator branding, tubular steel frame, crisp gauges, outlets and switches, exposed wiring, and worn grime.",
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "category_id": "a76c2858-bdc6-52ea-a99c-61bc3eb2efda",
+      "max_resolution": [
+        8192,
+        8192
+      ],
+      "polycount": 26419,
+      "files_hash": "1eb1caabd255ee5d737842cb7d92dc325c77d0f4",
+      "texel_density": 3373.4995323367743,
+      "dimensions": [
+        818.3408081531525,
+        564.0000104904175,
+        576.9232391612604
+      ],
+      "date_published": 1783036800,
+      "staging": null,
+      "collections": [
+        "project_lighthouse"
+      ],
+      "attributes": {
+        "material": [
+          "steel",
+          "plastic",
+          "rubber"
+        ],
+        "condition": [
+          "weathered"
+        ]
+      },
+      "img_version": "adb943a1",
+      "download_count": 2365,
+      "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/portable_generator.png?width=256&height=256&v=adb943a1"
+    },
+    "files": {
+      "mesh": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\portable_generator\\portable_generator_4k.fbx",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/portable_generator/portable_generator_4k.fbx",
+        "md5": "cfee30cdc9ddc22fe7c94d203fae1987",
+        "size": 873900
+      },
+      "Diffuse": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\portable_generator\\portable_generator_diff_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/portable_generator/portable_generator_diff_4k.png",
+        "md5": "5ccb706a13d1d7e785b90e1afe997eb6",
+        "size": 71653788
+      },
+      "nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\portable_generator\\portable_generator_nor_dx_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/portable_generator/portable_generator_nor_dx_4k.png",
+        "md5": "4f5fce86b362f272e4b6ffd60d3946d0",
+        "size": 74343674
+      },
+      "Rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\portable_generator\\portable_generator_rough_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/portable_generator/portable_generator_rough_4k.png",
+        "md5": "7ed53eb528fce488fc76712179af11e2",
+        "size": 19611367
+      },
+      "Metal": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\portable_generator\\portable_generator_metal_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/portable_generator/portable_generator_metal_4k.png",
+        "md5": "9b7bb267a29c5b1083103516fb2c42bd",
+        "size": 11237926
+      },
+      "AO": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\portable_generator\\portable_generator_ao_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/portable_generator/portable_generator_ao_4k.png",
+        "md5": "b809b0be1a760e9debc08dd5ad4104f9",
+        "size": 11555496
+      },
+      "Alpha": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\portable_generator\\portable_generator_alpha_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/portable_generator/portable_generator_alpha_4k.png",
+        "md5": "4900fbe3a9ebe9b77ea73d65a4331cc6",
+        "size": 362675
+      }
+    }
+  },
+  {
+    "id": "metal_tool_chest",
+    "source": "https://polyhaven.com/a/metal_tool_chest",
+    "license": "CC0",
+    "license_url": "https://polyhaven.com/license",
+    "info": {
+      "donated": true,
+      "type": 2,
+      "date_published": 1682899200,
+      "sponsors": [
+        "26820710"
+      ],
+      "name": "Metal Tool Chest",
+      "staging": null,
+      "info": null,
+      "authors": {
+        "Yann Kervran": "Rigging",
+        "John Hutcheson": "Modeling & Texturing"
+      },
+      "categories": [
+        "props",
+        "tools",
+        "industrial",
+        "containers",
+        "rigged",
+        "collection: the_shed"
+      ],
+      "tags": [
+        "old",
+        "metal",
+        "garage",
+        "workshop",
+        "storage",
+        "shed",
+        "worn",
+        "mechanics toolbox",
+        "rusted",
+        "steel",
+        "red"
+      ],
+      "max_resolution": [
+        8192,
+        8192
+      ],
+      "polycount": 14576,
+      "texel_density": 4517.763390735566,
+      "dimensions": [
+        685.3884160518646,
+        407.15324878692627,
+        651.8355906009674
+      ],
+      "files_hash": "8fdd3f7409ad7cfd5a4fc3091933d1e1d3785b0e",
+      "description": "Free 8K model of a worn red steel tool chest - rusted scratches, metal handles and lock; rigged lid and drawers, ideal for garage, workshop or industrial scenes.",
+      "category_id": "c7d5a298-97b0-5709-918e-e87832bf31a4",
+      "category": "Tools & Equipment/Workshop Equipment/Tool Chests",
+      "collections": [
+        "the_shed"
+      ],
+      "attributes": {
+        "condition": [
+          "rusted"
+        ],
+        "material": [
+          "steel",
+          "metal"
+        ],
+        "rigged": true
+      },
+      "img_version": "7d6d7a76",
+      "download_count": 15940,
+      "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/metal_tool_chest.png?width=256&height=256&v=7d6d7a76"
+    },
+    "files": {
+      "mesh": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\metal_tool_chest\\metal_tool_chest_4k.fbx",
+        "size": 440460,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/metal_tool_chest/metal_tool_chest_4k.fbx",
+        "md5": "fdc051506b7fb5fc3a44ebf06673f616"
+      },
+      "Diffuse": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\metal_tool_chest\\metal_tool_chest_diff_4k.png",
+        "size": 55418647,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/metal_tool_chest/metal_tool_chest_diff_4k.png",
+        "md5": "088a7985f86209dcf9865e2410adc176"
+      },
+      "nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\metal_tool_chest\\metal_tool_chest_nor_dx_4k.png",
+        "size": 64157431,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/metal_tool_chest/metal_tool_chest_nor_dx_4k.png",
+        "md5": "499cb5523b8668c9af257737d6acaaf6"
+      },
+      "Rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\metal_tool_chest\\metal_tool_chest_rough_4k.png",
+        "size": 20122274,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/metal_tool_chest/metal_tool_chest_rough_4k.png",
+        "md5": "01fd4611107cc12d92426e085fa30bc1"
+      },
+      "Metal": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\metal_tool_chest\\metal_tool_chest_metal_4k.png",
+        "size": 1614994,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/metal_tool_chest/metal_tool_chest_metal_4k.png",
+        "md5": "f45132ef1beddeb6bdb2e16177548cba"
+      },
+      "AO": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\metal_tool_chest\\metal_tool_chest_ao_4k.png",
+        "size": 12367080,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/metal_tool_chest/metal_tool_chest_ao_4k.png",
+        "md5": "f5fd8dcafd798cd2a076c8a2a7f3ba78"
+      }
+    }
+  },
+  {
+    "id": "old_military_crate",
+    "source": "https://polyhaven.com/a/old_military_crate",
+    "license": "CC0",
+    "license_url": "https://polyhaven.com/license",
+    "info": {
+      "type": 2,
+      "name": "Old Military Crate",
+      "categories": [
+        "collection: project_lighthouse",
+        "containers",
+        "props"
+      ],
+      "tags": [
+        "ammunition crate",
+        "military supply crate",
+        "hand-painted symbol",
+        "transport container",
+        "wooden",
+        "vintage",
+        "worn",
+        "military",
+        "army",
+        "weapon"
+      ],
+      "description": "Free 8K model of an old green military crate with worn wood, chipped paint, metal latches, stenciled markings and a canvas flap, shown open and closed.",
+      "authors": {
+        "Jack Mava": "All"
+      },
+      "donated": true,
+      "max_resolution": [
+        8192,
+        8192
+      ],
+      "polycount": 10476,
+      "files_hash": "03f2c68403869a77c2b3b4a7b2e2e2266ba616fa",
+      "texel_density": 4299.24472326156,
+      "dimensions": [
+        1815.3856992721558,
+        979.0960550308228,
+        300.932839512825
+      ],
+      "date_published": 1780963200,
+      "staging": null,
+      "category_id": "faab0ee3-e5cf-5048-8794-2aaedbcdc5f0",
+      "category": "Containers & Storage/Boxes & Crates/Military Crates",
+      "collections": [
+        "project_lighthouse"
+      ],
+      "attributes": {
+        "condition": [
+          "worn"
+        ],
+        "material": [
+          "wood",
+          "metal",
+          "fabric"
+        ]
+      },
+      "img_version": "cbd59173",
+      "download_count": 949,
+      "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/old_military_crate.png?width=256&height=256&v=cbd59173"
+    },
+    "files": {
+      "mesh": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\old_military_crate\\old_military_crate_4k.fbx",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/old_military_crate/old_military_crate_4k.fbx",
+        "md5": "9824aed1d12908036fbf48a91d4e53ec",
+        "size": 354396
+      },
+      "Diffuse": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\old_military_crate\\old_military_crate_diff_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/old_military_crate/old_military_crate_diff_4k.png",
+        "md5": "32f1beb1a361ff6911f0f139345d0023",
+        "size": 80700745
+      },
+      "nor_dx": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\old_military_crate\\old_military_crate_nor_dx_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/old_military_crate/old_military_crate_nor_dx_4k.png",
+        "md5": "6c41916555b2164d9b2053f23f5f0fe5",
+        "size": 82996955
+      },
+      "Rough": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\old_military_crate\\old_military_crate_rough_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/old_military_crate/old_military_crate_rough_4k.png",
+        "md5": "3c4a7fa08db51892d1f5804466cc5ad2",
+        "size": 24353071
+      },
+      "Metal": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\old_military_crate\\old_military_crate_metal_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/old_military_crate/old_military_crate_metal_4k.png",
+        "md5": "0690bb18f711cb663b0d57a351cb44ab",
+        "size": 870379
+      },
+      "AO": {
+        "path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u7c7b\u5854\u79d1\u592b\u519b\u4e8b\u6e38\u620f\\Unreal\\FactoryRaid\\Tools\\PolyHavenSource\\old_military_crate\\old_military_crate_ao_4k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/old_military_crate/old_military_crate_ao_4k.png",
+        "md5": "e5e071c093cd44fd84c0492db688f436",
+        "size": 9719998
+      }
+    }
+  }
+]

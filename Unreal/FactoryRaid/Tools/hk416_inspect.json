@@ -1,0 +1,71 @@
+{
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416.HK416": {
+    "class": "SkeletalMesh",
+    "bounds": "<Struct 'BoxSphereBounds' (0x00000260DC6806C0) {origin: {x: -1.988907, y: -0.000001, z: 12.736847}, box_extent: {x: 43.316956, y: 3.755362, z: 12.631312}, sphere_radius: 45.277052}>",
+    "materials": "[{material_interface: \"/Script/Engine.Material'/Game/Game/Assets/Models/Weapons/HK416/Low.Low'\", material_slot_name: \"Low\", uv_channel_data: {}, overlay_material_interface: None}, {material_interface: \"/Script/Engine.Material'/Game/Game/Assets/Models/Weapons/HK416/Sights.Sights'\", material_slot_name: \"Sights\", uv_channel_data: {}, overlay_material_interface: None}]",
+    "metadata": "{}"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416_Skeleton.HK416_Skeleton": {
+    "class": "Skeleton"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416AOLow2k.HK416AOLow2k": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416AOSights.HK416AOSights": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416BaseColorLow.HK416BaseColorLow": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416BaseColorSights.HK416BaseColorSights": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416MetalnessLow2k.HK416MetalnessLow2k": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416MetalnessSights.HK416MetalnessSights": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416NormalLowCompressed.HK416NormalLowCompressed": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416NormalSights.HK416NormalSights": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416RoughnessLow2k.HK416RoughnessLow2k": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/HK416RoughnessSights.HK416RoughnessSights": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/Low.Low": {
+    "class": "Material"
+  },
+  "/Game/Game/Assets/Models/Weapons/HK416/Sights.Sights": {
+    "class": "Material"
+  },
+  "/Game/Game/Assets/Models/Weapons/EOTechXPS3Scope/EOTechXPS3.EOTechXPS3": {
+    "class": "StaticMesh",
+    "bounds": "<Struct 'BoxSphereBounds' (0x00000260DC681780) {origin: {x: 8.741501, y: -3.120247, z: 17.027214}, box_extent: {x: 163.906265, y: 101.720093, z: 124.948654}, sphere_radius: 220.184631}>",
+    "materials": "[{material_interface: \"/Script/Engine.Material'/Game/Game/Assets/Models/Weapons/EOTechXPS3Scope/EOTechXPS3Mat.EOTechXPS3Mat'\", material_slot_name: \"EOTechXPS3Mat\", uv_channel_data: {}, overlay_material_interface: None}, {material_interface: \"/Script/Engine.Material'/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial'\", material_slot_name: \"Scope\", uv_channel_data: {}, overlay_material_interface: None}]",
+    "metadata": "{}"
+  },
+  "/Game/Game/Assets/Models/Weapons/EOTechXPS3Scope/EOTechXPS3Mat.EOTechXPS3Mat": {
+    "class": "Material"
+  },
+  "/Game/Game/Assets/Models/Weapons/EOTechXPS3Scope/EotechXPS_Base_Color.EotechXPS_Base_Color": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/EOTechXPS3Scope/EotechXPS_Metallic.EotechXPS_Metallic": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/EOTechXPS3Scope/EotechXPS_Normal_DirectX.EotechXPS_Normal_DirectX": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/EOTechXPS3Scope/EotechXPS_Opacity.EotechXPS_Opacity": {
+    "class": "Texture2D"
+  },
+  "/Game/Game/Assets/Models/Weapons/EOTechXPS3Scope/EotechXPS_Roughness.EotechXPS_Roughness": {
+    "class": "Texture2D"
+  }
+}

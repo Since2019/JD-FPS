@@ -1,0 +1,153 @@
+Using bundled DotNet SDK version: 10.0 win-x64
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -Mode=ValidatePlatforms -OutputSDKs  -AllPlatforms  -project="C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/FactoryRaid.uproject" -log="C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Saved/Logs/AutoSDKInfo.txt" -verbose -timestamps
+Log file: C:\Users\Administrator\Documents\ChatGPT\类塔科夫军事游戏\Unreal\FactoryRaid\Saved\Logs\AutoSDKInfo.txt
+##PlatformValidate: Win64 INVALID 10.0.22621.0
+##PlatformValidate: Mac INVALID 26.1.1
+##PlatformValidate: IOS INVALID 26.1.1
+##PlatformValidate: Android INVALID r27c
+##PlatformValidate: Linux INVALID v26_clang-20.1.8-rockylinux8
+##PlatformValidate: LinuxArm64 INVALID <UNKNOWN>
+##PlatformValidate: TVOS INVALID 26.1.1
+##PlatformValidate: VisionOS INVALID <UNKNOWN>
+Unable to find required SDK version 'MainVersion' for platform LinuxArm64. Check your SDK.json files
+Unable to find required SDK version 'MainVersion' for platform VisionOS. Check your SDK.json files
+Trace written to file C:\Users\Administrator\AppData\Local\UnrealBuildTool\Trace.uba with size 353b
+[2026.09.09-04.35.20:789][  0]LogInit: Display: Running engine for game: FactoryRaid
+[2026.09.09-04.35.20:789][  0]LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+[2026.09.09-04.35.20:789][  0]LogTrace: Display: Control listening on port 39661
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : config="Development"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.8-CL-56702186"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : engineversion="5.8.2-56702186+++UE5+Release-5.8"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : enginereleaseversion="5.8.2"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1413] "
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800X3D 8-Core Processor"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : asan="0"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : mergedmodules="0"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : compacttset="0"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Administrator\Documents\ChatGPT\类塔科夫军事游戏\Unreal\FactoryRaid\FactoryRaid.uproject -run=pythonscript -script=C:\Users\Administrator\Documents\ChatGPT\类塔科夫军事游戏\Unreal\FactoryRaid\Tools\arm_factory.py -unattended -nosplash -NullRHI""
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : loginid="e6ac48d74dc4db915afbec9e1a83ab4b"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : llm="0"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : zenstreaming="0"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2026.09.09-04.35.20:789][  0]LogAudio: Display: Audio Device Manager not initializing due to all audio being disabled. If this is not intentional, please check command line arguments for "-nosound".
+[2026.09.09-04.35.20:789][  0]LogConfig: Display: Loading Mac ini files took 0.08 seconds
+[2026.09.09-04.35.20:789][  0]LogConfig: Display: Loading VulkanPC ini files took 0.10 seconds
+[2026.09.09-04.35.20:789][  0]LogConfig: Display: Loading Android ini files took 0.11 seconds
+[2026.09.09-04.35.20:789][  0]LogConfig: Display: Loading IOS ini files took 0.11 seconds
+[2026.09.09-04.35.20:789][  0]LogConfig: Display: Loading TVOS ini files took 0.13 seconds
+[2026.09.09-04.35.20:789][  0]LogConfig: Display: Loading VisionOS ini files took 0.13 seconds
+[2026.09.09-04.35.20:789][  0]LogConfig: Display: Loading Windows ini files took 0.14 seconds
+[2026.09.09-04.35.20:789][  0]LogConfig: Display: Loading Unix ini files took 0.15 seconds
+[2026.09.09-04.35.20:789][  0]LogConfig: Display: Loading Linux ini files took 0.15 seconds
+[2026.09.09-04.35.20:789][  0]RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+[2026.09.09-04.35.20:789][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.Log is disabled for this application
+[2026.09.09-04.35.20:789][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.CSV is disabled for this application
+[2026.09.09-04.35.20:789][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.Horde is disabled for this application
+[2026.09.09-04.35.20:789][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.Log is disabled for this application
+[2026.09.09-04.35.20:789][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.CSV is disabled for this application
+[2026.09.09-04.35.20:789][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.Horde is disabled for this application
+[2026.09.09-04.35.20:789][  0]LogAsyncCompilation: Display: MemorySharingInfo: UsedMemory=322MiB, MaxMemoryAvailable=151478MiB
+[2026.09.09-04.35.20:789][  0]LogStreaming: Display: AsyncLoading2 - Created: Async Loading Thread: false, Async Post Load: false, Multithreaded: false
+[2026.09.09-04.35.20:789][  0]LogHAL: Display: Platform has ~ 48 GB [51462111232 / 68719476736 / 48], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.09.09-04.35.20:789][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2026.09.09-04.35.20:789][  0]LogObj: Display: Attempting to load config data for Default__DownlinkBandwidthManagerConfig before the Class has been constructed/registered/linked (likely during module loading or early startup). This will result in the load silently failing and should be fixed.
+[2026.09.09-04.35.21:590][  0]LogObj: Display: Attempting to load config data for Default__SlateThemeManager before the Class has been constructed/registered/linked (likely during module loading or early startup). This will result in the load silently failing and should be fixed.
+[2026.09.09-04.35.21:784][  0]LogCsvProfiler: Display: Metadata set : verbatimrhiname="Null"
+[2026.09.09-04.35.21:784][  0]LogCsvProfiler: Display: Metadata set : rhiname="Null"
+[2026.09.09-04.35.21:784][  0]LogCsvProfiler: Display: Metadata set : rhifeaturelevel="SM6"
+[2026.09.09-04.35.21:784][  0]LogCsvProfiler: Display: Metadata set : shaderplatform="PCD3D_SM6"
+[2026.09.09-04.35.21:784][  0]LogCsvProfiler: Display: Metadata set : gpu=""
+[2026.09.09-04.35.21:784][  0]LogCsvProfiler: Display: Metadata set : gpudriver=""
+[2026.09.09-04.35.21:798][  0]LogTextureFormatASTC: Display: ASTCEnc version 5.0.1 library loaded
+[2026.09.09-04.35.21:798][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2026.09.09-04.35.21:798][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2026.09.09-04.35.21:798][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2026.09.09-04.35.21:798][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2026.09.09-04.35.21:798][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.16
+[2026.09.09-04.35.21:798][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.16.dll
+[2026.09.09-04.35.21:798][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2026.09.09-04.35.21:798][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2026.09.09-04.35.21:844][  0]LogTargetPlatformManager: Display: Failed to SetupSDK for platform 'Android'
+[2026.09.09-04.35.21:868][  0]LogTargetPlatformManager: Display: Failed to SetupSDK for platform 'IOS'
+[2026.09.09-04.35.21:894][  0]LogTargetPlatformManager: Display: Failed to SetupSDK for platform 'Linux'
+[2026.09.09-04.35.21:922][  0]LogTargetPlatformManager: Display: Failed to SetupSDK for platform 'Mac'
+[2026.09.09-04.35.21:924][  0]LogTargetPlatformManager: Display: Failed to SetupSDK for platform 'TVOS'
+[2026.09.09-04.35.21:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2026.09.09-04.35.21:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2026.09.09-04.35.21:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2026.09.09-04.35.21:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2026.09.09-04.35.21:951][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2026.09.09-04.35.21:957][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2026.09.09-04.35.22:390][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1679 MiB)
+[2026.09.09-04.35.22:393][  0]LogZenServiceInstance: Display: Launching zen utility 'G:/UE_5.8/Engine/Binaries/Win64/zen.exe service status'.
+[2026.09.09-04.35.22:901][  0]LogZenServiceInstance: Display: Writing plugin version info to 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen_plugin_versions.json'
+[2026.09.09-04.35.22:902][  0]LogZenServiceInstance: Display: Read zen version cache file from 'C:/Users/Administrator/AppData/Local/UnrealEngine/5.8/Saved/Zen/zen.version', version: '5.8.13-202605190912-windows-x64-release-094f62c2'
+[2026.09.09-04.35.22:902][  0]LogZenServiceInstance: Display: Read zen version cache file from 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen.version', version: '5.8.13-202605190912-windows-x64-release-094f62c2'
+[2026.09.09-04.35.22:902][  0]LogZenServiceInstance: Display: Installed service at 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is up to date
+[2026.09.09-04.35.23:912][  0]LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at http://[::1]:8558 status: OK!.
+[2026.09.09-04.35.23:914][  0]LogDerivedDataCache: Display: ZenLocal: Using ZenServer HTTP service at [::1] with namespace ue.ddc. Status: OK!.
+[2026.09.09-04.35.23:922][  0]LogDerivedDataCache: Display: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.04ms. RandomReadSpeed=1164.44MBs, RandomWriteSpeed=159.91MBs. Assigned SpeedClass 'Local'
+[2026.09.09-04.35.23:926][  0]LogUbaHorde: Display: UBA/Horde Configuration [Uba.Provider.Horde]: Not Enabled
+[2026.09.09-04.35.23:926][  0]LogShaderCompilers: Display: No distributed shader compiler controller found
+[2026.09.09-04.35.23:926][  0]LogShaderCompilers: Display: Using 13 local workers for shader compilation
+[2026.09.09-04.35.23:937][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2026.09.09-04.35.23:937][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2026.09.09-04.35.24:786][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2026.09.09-04.35.25:276][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2026.09.09-04.35.25:276][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2026.09.09-04.35.25:367][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2026.09.09-04.35.25:372][  0]LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.09-04.35.25:394][  0]LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2026.09.09-04.35.25:394][  0]LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2026.09.09-04.35.25:394][  0]LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2026.09.09-04.35.25:419][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.09.09-04.35.25:419][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2026.09.09-04.35.25:419][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.09.09-04.35.25:419][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2026.09.09-04.35.25:610][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2026.09.09-04.35.25:610][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2026.09.09-04.35.25:610][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2026.09.09-04.35.25:610][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2026.09.09-04.35.25:708][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2026.09.09-04.35.25:712][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 3.431 ms
+[2026.09.09-04.35.26:428][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.09.09-04.35.26:431][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2026.09.09-04.35.26:784][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.09.09-04.35.27:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.09.09-04.35.27:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.09.09-04.35.27:957][  0]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PreLoad): 1 .ref files found, 1 referenced binaries
+[2026.09.09-04.35.27:957][  0]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.09.09-04.35.27:957][  0]LogAssetRegistry: Display: FindShardedCacheFiles: 1 via .ref, 0 via migration fallback, 1 total
+[2026.09.09-04.35.27:957][  0]LogAssetRegistry: Display: LoadCacheFiles: loading 1 cache files, memory-mapping=enabled
+[2026.09.09-04.35.28:090][  0]LogAssetRegistry: Display: Asset registry cache read as 125.9 MiB from C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_10821C83497A93D37E07669F5BA8EC36.bin (memory-mapped=yes)
+[2026.09.09-04.35.28:091][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.134s loading caches from C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Intermediate/CachedAssetRegistry.
+[2026.09.09-04.35.28:139][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.09.09-04.35.28:206][  0]LogPython: Display: No pip-enabled plugins with python dependencies found, skipping
+[2026.09.09-04.35.28:700][  0]LogCsvProfiler: Display: Metadata set : raytracing="0"
+[2026.09.09-04.35.28:913][  0]LogPython: Display: 正在运行启动脚本G:/UE_5.8/Engine/Plugins/Animation/IKRig/Content/Python/init_unreal.py…… started...
+[2026.09.09-04.35.28:926][  0]LogPython: Display: 正在运行启动脚本G:/UE_5.8/Engine/Plugins/Animation/IKRig/Content/Python/init_unreal.py…… took 13.469 ms
+[2026.09.09-04.35.28:926][  0]LogPython: Display: 正在运行启动脚本G:/UE_5.8/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py…… started...
+[2026.09.09-04.35.28:950][  0]LogPython: Display: 正在运行启动脚本G:/UE_5.8/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py…… took 22.373 ms (total: 35.842 ms)
+[2026.09.09-04.35.28:950][  0]LogPythonScriptCommandlet: Display: Running Python script: C:\Users\Administrator\Documents\ChatGPT\类塔科夫军事游戏\Unreal\FactoryRaid\Tools\arm_factory.py
+[2026.09.09-04.35.30:767][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.09-04.35.30:952][  0]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first (ClassicFactoryArmed)
+[2026.09.09-04.35.31:868][  0]LogPythonScriptCommandlet: Display: Python script executed successfully
+[2026.09.09-04.35.31:868][  0]LogInit: Display: 
+[2026.09.09-04.35.31:868][  0]LogInit: Display: Warning/Error Summary (Unique only)
+[2026.09.09-04.35.31:868][  0]LogInit: Display: -----------------------------------
+[2026.09.09-04.35.31:868][  0]LogInit: Display: LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first (ClassicFactoryArmed)
+[2026.09.09-04.35.31:868][  0]LogInit: Display: 
+[2026.09.09-04.35.31:868][  0]LogInit: Display: Success - 0 error(s), 1 warning(s)
+[2026.09.09-04.35.31:868][  0]LogInit: Display: 
+
+Execution of commandlet took:  2.96 seconds, PeakPhysMemoryMB=1793 MB, PeakVirtMemoryMB=1625 MB
+[2026.09.09-04.35.32:027][  0]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.09-04.35.32:032][  0]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.09.09-04.35.32:032][  0]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.09.09-04.35.32:325][  0]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.09.09-04.35.32:385][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Administrator/Documents/ChatGPT/类塔科夫军事游戏/Unreal/FactoryRaid/Saved/SourceControl/UncontrolledChangelists.json

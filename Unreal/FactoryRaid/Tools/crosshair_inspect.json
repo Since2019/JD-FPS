@@ -1,0 +1,10 @@
+{
+  "/Game/Variant_Shooter/UI/UI_Shooter": {
+    "widget_tree": "WidgetBlueprint: Failed to find property 'widget_tree' for attribute 'widget_tree' on 'WidgetBlueprint'",
+    "WidgetTree": "WidgetBlueprint: Property 'WidgetTree' for attribute 'WidgetTree' on 'WidgetBlueprint' is protected and cannot be read"
+  },
+  "/Game/Variant_Shooter/Blueprints/BP_ShooterPlayerController": {
+    "widget_tree": "Blueprint: Failed to find property 'widget_tree' for attribute 'widget_tree' on 'Blueprint'",
+    "WidgetTree": "Blueprint: Failed to find property 'WidgetTree' for attribute 'WidgetTree' on 'Blueprint'"
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "/Game/IMC_Default": [
+    {
+      "key": "SpaceBar",
+      "action": "<Object '/Game/Input/Actions/IA_Jump.IA_Jump' (0x0000021950F46480) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Gamepad_FaceButton_Bottom",
+      "action": "<Object '/Game/Input/Actions/IA_Jump.IA_Jump' (0x0000021950F46480) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "W",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierSwizzleAxis",
+          "order": "<InputAxisSwizzle.YXZ: 0>"
+        }
+      ]
+    },
+    {
+      "key": "S",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierSwizzleAxis",
+          "order": "<InputAxisSwizzle.YXZ: 0>"
+        },
+        {
+          "class": "InputModifierNegate",
+          "x": "True",
+          "y": "True",
+          "z": "True"
+        }
+      ]
+    },
+    {
+      "key": "A",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierNegate",
+          "x": "True",
+          "y": "True",
+          "z": "True"
+        }
+      ]
+    },
+    {
+      "key": "D",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Up",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierSwizzleAxis",
+          "order": "<InputAxisSwizzle.YXZ: 0>"
+        }
+      ]
+    },
+    {
+      "key": "Down",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierSwizzleAxis",
+          "order": "<InputAxisSwizzle.YXZ: 0>"
+        },
+        {
+          "class": "InputModifierNegate",
+          "x": "True",
+          "y": "True",
+          "z": "True"
+        }
+      ]
+    },
+    {
+      "key": "Right",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Left",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierNegate",
+          "x": "True",
+          "y": "True",
+          "z": "True"
+        }
+      ]
+    },
+    {
+      "key": "Gamepad_Left2D",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierDeadZone"
+        },
+        {
+          "class": "InputModifierScalar"
+        }
+      ]
+    },
+    {
+      "key": "Gamepad_Right2D",
+      "action": "<Object '/Game/Input/Actions/IA_Look.IA_Look' (0x0000021950F46180) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierDeadZone"
+        }
+      ]
+    }
+  ],
+  "/Game/Input/IMC_Default": [
+    {
+      "key": "SpaceBar",
+      "action": "<Object '/Game/Input/Actions/IA_Jump.IA_Jump' (0x0000021950F46480) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Gamepad_FaceButton_Bottom",
+      "action": "<Object '/Game/Input/Actions/IA_Jump.IA_Jump' (0x0000021950F46480) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "W",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierSwizzleAxis",
+          "order": "<InputAxisSwizzle.YXZ: 0>"
+        }
+      ]
+    },
+    {
+      "key": "S",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierSwizzleAxis",
+          "order": "<InputAxisSwizzle.YXZ: 0>"
+        },
+        {
+          "class": "InputModifierNegate",
+          "x": "True",
+          "y": "True",
+          "z": "True"
+        }
+      ]
+    },
+    {
+      "key": "A",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierNegate",
+          "x": "True",
+          "y": "True",
+          "z": "True"
+        }
+      ]
+    },
+    {
+      "key": "D",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Up",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierSwizzleAxis",
+          "order": "<InputAxisSwizzle.YXZ: 0>"
+        }
+      ]
+    },
+    {
+      "key": "Down",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierSwizzleAxis",
+          "order": "<InputAxisSwizzle.YXZ: 0>"
+        },
+        {
+          "class": "InputModifierNegate",
+          "x": "True",
+          "y": "True",
+          "z": "True"
+        }
+      ]
+    },
+    {
+      "key": "Right",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Left",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierNegate",
+          "x": "True",
+          "y": "True",
+          "z": "True"
+        }
+      ]
+    },
+    {
+      "key": "Gamepad_Left2D",
+      "action": "<Object '/Game/Input/Actions/IA_Move.IA_Move' (0x0000021950F43A80) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierDeadZone"
+        },
+        {
+          "class": "InputModifierScalar"
+        }
+      ]
+    },
+    {
+      "key": "Gamepad_Right2D",
+      "action": "<Object '/Game/Input/Actions/IA_Look.IA_Look' (0x0000021950F46180) Class 'InputAction'>",
+      "modifiers": [
+        {
+          "class": "InputModifierDeadZone"
+        }
+      ]
+    }
+  ],
+  "/Game/Input/IMC_Weapons": [
+    {
+      "key": "LeftShift",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_SwapWeapon.IA_SwapWeapon' (0x0000021950F45F40) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Gamepad_FaceButton_Top",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_SwapWeapon.IA_SwapWeapon' (0x0000021950F45F40) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "LeftMouseButton",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_Shoot.IA_Shoot' (0x0000021950F43D80) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Gamepad_RightTriggerAxis",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_Shoot.IA_Shoot' (0x0000021950F43D80) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Gamepad_RightShoulder",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_Shoot.IA_Shoot' (0x0000021950F43D80) Class 'InputAction'>",
+      "modifiers": []
+    }
+  ],
+  "/Game/Variant_Shooter/Input/IMC_Weapons": [
+    {
+      "key": "LeftShift",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_SwapWeapon.IA_SwapWeapon' (0x0000021950F45F40) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Gamepad_FaceButton_Top",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_SwapWeapon.IA_SwapWeapon' (0x0000021950F45F40) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "LeftMouseButton",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_Shoot.IA_Shoot' (0x0000021950F43D80) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Gamepad_RightTriggerAxis",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_Shoot.IA_Shoot' (0x0000021950F43D80) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Gamepad_RightShoulder",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_Shoot.IA_Shoot' (0x0000021950F43D80) Class 'InputAction'>",
+      "modifiers": []
+    }
+  ],
+  "/Game/Factory/Visual3/Input/IMC_TacticalWeapons": [
+    {
+      "key": "LeftShift",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_SwapWeapon.IA_SwapWeapon' (0x0000021950F45F40) Class 'InputAction'>",
+      "modifiers": []
+    },
+    {
+      "key": "Gamepad_FaceButton_Top",
+      "action": "<Object '/Game/Variant_Shooter/Input/Actions/IA_SwapWeapon.IA_SwapWeapon' (0x0000021950F45F40) Class 'InputAction'>",
+      "modifiers": []
+    }
+  ],
+  "api": {
+    "add_mapping_context": "x.add_mapping_context(mapping_context, priority, options=[True, False, False]) -> None\r\nAdd a control mapping context.\r\n\r\nArgs:\r\n    mapping_context (InputMappingContext): A set of key to action mappings to apply to this player\r\n    priority (int32): Higher priority mappings will be applied first and, if they consume input, will block lower priority mappings.\r\n    options (ModifyContextOptions): Options to consider when adding this mapping context.",
+    "clear_all_mappings": "x.clear_all_mappings() -> None\r\nRemove all applied mapping contexts.",
+    "control_mappings_rebuilt_delegate": "(OnControlMappingsRebuilt):  [Read-Write] Blueprint Event that is called at the end of any frame that Control Mappings have been rebuilt.",
+    "get_all_player_mappable_action_key_mappings": "x.get_all_player_mappable_action_key_mappings() -> Array[EnhancedActionKeyMapping]\r\nGet an array of the currently applied key mappings that are marked as Player Mappable.\r\n\r\nReturns:\r\n    Array[EnhancedActionKeyMapping]:",
+    "has_mapping_context": "x.has_mapping_context(mapping_context) -> int32 or None\r\nCheck if a mapping context is applied to this subsystem's owner.\r\n\r\nArgs:\r\n    mapping_context (InputMappingContext): The mapping context to search for on the subsystem's owner.\r\n\r\nReturns:\r\n    int32 or None: True if the mapping context is applied\r\n\r\n    out_found_priority (int32): The priority of the mapping context if it is applied. -1 if the context is not applied",
+    "inject_input_for_player_mapping": "x.inject_input_for_player_mapping(mapping_name, raw_value, modifiers, triggers) -> None\r\nInput simulation via injection. Runs modifiers and triggers delegates as if the input had come through the underlying input system as FKeys.\nApplies action modifiers and triggers on top.\r\n\r\nArgs:\r\n    mapping_name (Name): The name of the player mapping that can be used for look up an associated UInputAction object.\r\n    raw_value (InputActionValue): The value to set the action to\r\n    modifiers (Array[InputModifier]): The modifiers to apply to the injected input.\r\n    triggers (Array[InputTrigger]): The triggers to apply to the injected input.",
+    "inject_input_vector_for_player_mapping": "x.inject_input_vector_for_player_mapping(mapping_name, value, modifiers, triggers) -> None\r\nInput simulation via injection. Runs modifiers and triggers delegates as if the input had come through the underlying input system as FKeys.\nApplies action modifiers and triggers on top.\r\n\r\nArgs:\r\n    mapping_name (Name): The name of the player mapping that can be used for look up an associated UInputAction object.\r\n    value (Vector): The value to set the action to (the type will be controlled by the Action)\r\n    modifiers (Array[InputModifier]): The modifiers to apply to the injected input.\r\n    triggers (Array[InputTrigger]): The triggers to apply to the injected input.",
+    "on_mapping_context_added": "(OnMappingContextAdded):  [Read-Write] A callback fired when a mapping context is added (AddMappingContext is called on this subsystem)\n\nNote:  This does not make any guarantee that the control mappings will have been rebuilt.\nIf you need that, then listen to the ControlMappingsRebuiltDelegate instead.",
+    "on_mapping_context_removed": "(OnMappingContextRemoved):  [Read-Write] A callback fired when a mapping context is removed (RemoveMappingContext is called on this subsystem)\n\nNote:  This does not make any guarantee that the control mappings will have been rebuilt.\nIf you need that, then listen to the ControlMappingsRebuiltDelegate instead.",
+    "remove_mapping_context": "x.remove_mapping_context(mapping_context, options=[True, False, False]) -> None\r\nRemove a specific control context.\nThis is safe to call even if the context is not applied.\r\n\r\nArgs:\r\n    mapping_context (InputMappingContext): Context to remove from the player\r\n    options (ModifyContextOptions): Options to consider when removing this input mapping context",
+    "request_rebuild_control_mappings": "x.request_rebuild_control_mappings(options=[True, False, False], rebuild_type=InputMappingRebuildType.REBUILD) -> None\r\nFlag player for reapplication of all mapping contexts at the end of this frame.\nThis is called automatically when adding or removing mappings contexts.\r\n\r\nArgs:\r\n    options (ModifyContextOptions): Options to consider when removing this input mapping context\r\n    rebuild_type (InputMappingRebuildType):",
+    "start_continuous_input_injection_for_player_mapping": "x.start_continuous_input_injection_for_player_mapping(mapping_name, raw_value, modifiers, triggers) -> None\r\nStarts simulation of input via injection. This injects the given input every tick until it is stopped with StopContinuousInputInjectionForAction.\r\n\r\nArgs:\r\n    mapping_name (Name): The name of the player mapping that can be used for look up an associated UInputAction object.\r\n    raw_value (InputActionValue): The value to set the action to (the type will be controlled by the Action)\r\n    modifiers (Array[InputModifier]): The modifiers to apply to the injected input.\r\n    triggers (Array[InputTrigger]): The triggers to apply to the injected input.",
+    "stop_continuous_input_injection_for_player_mapping": "x.stop_continuous_input_injection_for_player_mapping(mapping_name) -> None\r\nStops continuous input injection for the given player mapping name.\r\n\r\nArgs:\r\n    mapping_name (Name): The name of the player mapping that can be used for look up an associated UInputAction object.",
+    "update_value_of_continuous_input_injection_for_player_mapping": "x.update_value_of_continuous_input_injection_for_player_mapping(mapping_name, raw_value) -> None\r\nUpdate the value of a continuous input injection for the given player mapping name, preserving the state of triggers and modifiers.\r\n\r\nArgs:\r\n    mapping_name (Name): The name of the player mapping that can be used for look up an associated UInputAction object.\r\n    raw_value (InputActionValue): The value to set the action to (the type will be controlled by the Action)"
+  },
+  "pawn": {
+    "yaw": true,
+    "orient": false
+  }
+}

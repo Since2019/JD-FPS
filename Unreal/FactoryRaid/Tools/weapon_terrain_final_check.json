@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "icon": "/Game/Factory/Visual4/UI/Photo_Bolt762.Photo_Bolt762",
+  "ammo_after_empty": 0,
+  "reloaded_from_empty": 5,
+  "switch_roundtrip": true
+}

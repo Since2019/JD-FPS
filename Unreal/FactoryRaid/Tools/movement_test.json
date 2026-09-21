@@ -1,0 +1,735 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "weapon": "HK416",
+      "yaw": 0,
+      "key": "W",
+      "forward_cm": 130.08393376097885,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x0000020303F675D0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F66540) {x: 130.083934, y: 0.000000, z: 3103.149999}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F66540) {x: 290.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 0.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8AB0) {x: 1.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 0,
+      "key": "A",
+      "forward_cm": 0.0,
+      "right_cm": -128.28006894156462,
+      "start": "<Struct 'Vector' (0x0000020303F67670) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F675D0) {x: 0.000000, y: -128.280069, z: 3103.149996}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F675D0) {x: 0.000000, y: -290.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 0.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8AB0) {x: 0.000000, y: -1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 0,
+      "key": "S",
+      "forward_cm": -128.94873252162108,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x0000020303F549C0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F67670) {x: -128.948733, y: 0.000000, z: 3103.149996}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F67670) {x: -290.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 0.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8880) {x: -1.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 0,
+      "key": "D",
+      "forward_cm": 0.0,
+      "right_cm": 128.89554285751566,
+      "start": "<Struct 'Vector' (0x0000020303F67530) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F549C0) {x: 0.000000, y: 128.895543, z: 3103.149996}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F549C0) {x: 0.000000, y: 290.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 0.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8C90) {x: 0.000000, y: 1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 0,
+      "key": "idle",
+      "forward_cm": 0.0,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x0000020303F67760) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F67300) {x: 0.000000, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F67300) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 0.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D88D0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 90,
+      "key": "W",
+      "forward_cm": 128.83536646659704,
+      "right_cm": -2.071830708943245e-14,
+      "start": "<Struct 'Vector' (0x0000020303F67710) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F674E0) {x: 0.000000, y: 128.835366, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F674E0) {x: 0.000000, y: 290.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 89.99999999999999,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8AB0) {x: 0.000000, y: 1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 90,
+      "key": "A",
+      "forward_cm": -2.0764701087764326e-14,
+      "right_cm": -129.1238643516382,
+      "start": "<Struct 'Vector' (0x0000020303F67760) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002025F9E8FB0) {x: 129.123864, y: -0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002025F9E8FB0) {x: 290.000000, y: -0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 89.99999999999999,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8740) {x: 1.000000, y: -0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 90,
+      "key": "S",
+      "forward_cm": -128.7173114989936,
+      "right_cm": 2.0699322402701446e-14,
+      "start": "<Struct 'Vector' (0x0000020303F67530) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F67580) {x: -0.000000, y: -128.717311, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F67580) {x: -0.000000, y: -290.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 89.99999999999999,
+      "last_input": "<Struct 'Vector' (0x000002034F4D90A0) {x: -0.000000, y: -1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 90,
+      "key": "D",
+      "forward_cm": 2.06156013801908e-14,
+      "right_cm": 128.19669808354598,
+      "start": "<Struct 'Vector' (0x0000020303F676C0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F67710) {x: -128.196698, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F67710) {x: -290.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 89.99999999999999,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8920) {x: -1.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 90,
+      "key": "idle",
+      "forward_cm": 0.0,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x0000020303F67530) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F67620) {x: 0.000000, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F67620) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 89.99999999999999,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8B50) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 180,
+      "key": "W",
+      "forward_cm": 130.48951034163497,
+      "right_cm": -6.310887241768095e-30,
+      "start": "<Struct 'Vector' (0x0000020303F676C0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F67760) {x: -130.489510, y: 0.000000, z: 3103.149997}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F67760) {x: -290.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 180.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D88D0) {x: -1.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 180,
+      "key": "A",
+      "forward_cm": 0.0,
+      "right_cm": -131.07557693561085,
+      "start": "<Struct 'Vector' (0x0000020303F67530) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F676C0) {x: 0.000000, y: 131.075577, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F676C0) {x: 0.000000, y: 290.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 180.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D9000) {x: 0.000000, y: 1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 180,
+      "key": "S",
+      "forward_cm": -130.3053337493553,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x000002034F4D9050) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x0000020303F67530) {x: 130.305334, y: -0.000000, z: 3103.149997}>",
+      "velocity": "<Struct 'Vector' (0x0000020303F67530) {x: 290.000000, y: -0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 180.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D90F0) {x: 1.000000, y: -0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 180,
+      "key": "D",
+      "forward_cm": 1.8932661725304283e-29,
+      "right_cm": 129.33056371640973,
+      "start": "<Struct 'Vector' (0x000002034F4D9280) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8D80) {x: -0.000000, y: -129.330564, z: 3103.149996}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8D80) {x: -0.000000, y: -290.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 180.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8AB0) {x: -0.000000, y: -1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": 180,
+      "key": "idle",
+      "forward_cm": 0.0,
+      "right_cm": -0.0,
+      "start": "<Struct 'Vector' (0x000002034F4D8F10) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D9280) {x: 0.000000, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D9280) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 180.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D9320) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": -90,
+      "key": "W",
+      "forward_cm": 131.75602812907272,
+      "right_cm": -3.732344511824305e-14,
+      "start": "<Struct 'Vector' (0x000002034F4D92D0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8A60) {x: -0.000000, y: -131.756028, z: 3103.149996}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8A60) {x: -0.000000, y: -290.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": -90.00000000000001,
+      "last_input": "<Struct 'Vector' (0x000002034F4D88D0) {x: -0.000000, y: -1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": -90,
+      "key": "A",
+      "forward_cm": -3.705186791670112e-14,
+      "right_cm": -130.79732956059317,
+      "start": "<Struct 'Vector' (0x000002034F4D8E70) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8920) {x: -130.797330, y: 0.000000, z: 3103.149997}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8920) {x: -290.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": -90.00000000000001,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8D30) {x: -1.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": -90,
+      "key": "S",
+      "forward_cm": -131.40865268923716,
+      "right_cm": 3.722504166491934e-14,
+      "start": "<Struct 'Vector' (0x000002034F4D8C90) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8F60) {x: 0.000000, y: 131.408653, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8F60) {x: 0.000000, y: 290.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": -90.00000000000001,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8E70) {x: 0.000000, y: 1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": -90,
+      "key": "D",
+      "forward_cm": 3.6886219391829257e-14,
+      "right_cm": 130.21257133065447,
+      "start": "<Struct 'Vector' (0x000002034F4D8E20) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D9460) {x: 130.212571, y: -0.000000, z: 3103.149996}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D9460) {x: 290.000000, y: -0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": -90.00000000000001,
+      "last_input": "<Struct 'Vector' (0x000002034F4D9230) {x: 1.000000, y: -0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "HK416",
+      "yaw": -90,
+      "key": "idle",
+      "forward_cm": 0.0,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x000002034F4D9410) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8E20) {x: 0.000000, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8E20) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": -90.00000000000001,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8B50) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 0,
+      "key": "W",
+      "forward_cm": 91.22031869280497,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x000002034F4D9140) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D87E0) {x: 91.220319, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D87E0) {x: 175.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 0.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8DD0) {x: 1.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 0,
+      "key": "A",
+      "forward_cm": 0.0,
+      "right_cm": -88.75717887298813,
+      "start": "<Struct 'Vector' (0x000002034F4D9370) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D90A0) {x: 0.000000, y: -88.757179, z: 3103.149996}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D90A0) {x: 0.000000, y: -175.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 0.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8C40) {x: 0.000000, y: -1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 0,
+      "key": "S",
+      "forward_cm": -88.80929913226905,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x000002034F4D9550) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8BF0) {x: -88.809299, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8BF0) {x: -175.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 0.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8AB0) {x: -1.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 0,
+      "key": "D",
+      "forward_cm": 0.0,
+      "right_cm": 88.8435983689201,
+      "start": "<Struct 'Vector' (0x000002034F4D8740) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D9550) {x: 0.000000, y: 88.843598, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D9550) {x: 0.000000, y: 175.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 0.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D9410) {x: 0.000000, y: 1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 0,
+      "key": "idle",
+      "forward_cm": 0.0,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x000002034F4D92D0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8B00) {x: 0.000000, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8B00) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 0.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D9140) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 90,
+      "key": "W",
+      "forward_cm": 87.76371883021969,
+      "right_cm": -1.411348240707282e-14,
+      "start": "<Struct 'Vector' (0x000002034F4D8AB0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D92D0) {x: 0.000000, y: 87.763719, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D92D0) {x: 0.000000, y: 175.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 89.99999999999999,
+      "last_input": "<Struct 'Vector' (0x000002034F4D93C0) {x: 0.000000, y: 1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 90,
+      "key": "A",
+      "forward_cm": -1.4323609321057502e-14,
+      "right_cm": -89.07037858050055,
+      "start": "<Struct 'Vector' (0x000002034F4D90F0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D95F0) {x: 89.070379, y: -0.000000, z: 3103.149997}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D95F0) {x: 175.000000, y: -0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 89.99999999999999,
+      "last_input": "<Struct 'Vector' (0x000002034F4D88D0) {x: 1.000000, y: -0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 90,
+      "key": "S",
+      "forward_cm": -88.49326623956568,
+      "right_cm": 1.4230802578371034e-14,
+      "start": "<Struct 'Vector' (0x000002034F4D8FB0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8C40) {x: -0.000000, y: -88.493266, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8C40) {x: -0.000000, y: -175.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 89.99999999999999,
+      "last_input": "<Struct 'Vector' (0x000002034F4D9050) {x: -0.000000, y: -1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 90,
+      "key": "D",
+      "forward_cm": 1.4175574522204967e-14,
+      "right_cm": 88.14983437398516,
+      "start": "<Struct 'Vector' (0x000002034F4D9370) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8FB0) {x: -88.149834, y: 0.000000, z: 3103.149997}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8FB0) {x: -175.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 89.99999999999999,
+      "last_input": "<Struct 'Vector' (0x000002034F4D9230) {x: -1.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 90,
+      "key": "idle",
+      "forward_cm": 0.0,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x000002034F4D96E0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D9050) {x: 0.000000, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D9050) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 89.99999999999999,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8830) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 180,
+      "key": "W",
+      "forward_cm": 87.28051086487632,
+      "right_cm": -6.310887241768095e-30,
+      "start": "<Struct 'Vector' (0x000002034F4D9500) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D9000) {x: -87.280511, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D9000) {x: -175.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 180.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D9320) {x: -1.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 180,
+      "key": "A",
+      "forward_cm": -2.0510383535746307e-29,
+      "right_cm": -87.88580448432756,
+      "start": "<Struct 'Vector' (0x000002034F4D9370) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D9690) {x: 0.000000, y: 87.885804, z: 3103.149997}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D9690) {x: 0.000000, y: 175.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 180.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8DD0) {x: 0.000000, y: 1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 180,
+      "key": "S",
+      "forward_cm": -88.66729730558842,
+      "right_cm": 3.1554436208840472e-30,
+      "start": "<Struct 'Vector' (0x000002034F4D95A0) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8E70) {x: 88.667297, y: -0.000000, z: 3103.149997}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8E70) {x: 175.000000, y: -0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 180.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D93C0) {x: 1.000000, y: -0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 180,
+      "key": "D",
+      "forward_cm": -7.888609052210118e-30,
+      "right_cm": 88.12170327812709,
+      "start": "<Struct 'Vector' (0x000002034F4D9910) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D90F0) {x: -0.000000, y: -88.121703, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D90F0) {x: -0.000000, y: -175.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 180.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8C90) {x: -0.000000, y: -1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": 180,
+      "key": "idle",
+      "forward_cm": 0.0,
+      "right_cm": -0.0,
+      "start": "<Struct 'Vector' (0x000002034F4D8880) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D97D0) {x: 0.000000, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D97D0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": 180.0,
+      "last_input": "<Struct 'Vector' (0x000002034F4D9140) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": -90,
+      "key": "W",
+      "forward_cm": 88.49630103129269,
+      "right_cm": -2.506896178953772e-14,
+      "start": "<Struct 'Vector' (0x000002034F4D8C90) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D9820) {x: -0.000000, y: -88.496301, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D9820) {x: -0.000000, y: -175.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": -90.00000000000001,
+      "last_input": "<Struct 'Vector' (0x000002034F4D94B0) {x: -0.000000, y: -1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": -90,
+      "key": "A",
+      "forward_cm": -2.52002264894661e-14,
+      "right_cm": -88.95968042838025,
+      "start": "<Struct 'Vector' (0x000002034F4D9910) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D8F10) {x: -88.959680, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D8F10) {x: -175.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": -90.00000000000001,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8880) {x: -1.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": -90,
+      "key": "S",
+      "forward_cm": -88.8717720401944,
+      "right_cm": 2.517532406983128e-14,
+      "start": "<Struct 'Vector' (0x000002034F4D8D30) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D9910) {x: 0.000000, y: 88.871772, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D9910) {x: 0.000000, y: 175.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": -90.00000000000001,
+      "last_input": "<Struct 'Vector' (0x000002034F4D9640) {x: 0.000000, y: 1.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": -90,
+      "key": "D",
+      "forward_cm": 2.4843652940586546e-14,
+      "right_cm": 87.70093503691322,
+      "start": "<Struct 'Vector' (0x000002034F4D9140) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D98C0) {x: 87.700935, y: -0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D98C0) {x: 175.000000, y: -0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": -90.00000000000001,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8AB0) {x: 1.000000, y: -0.000000, z: 0.000000}>",
+      "ok": true
+    },
+    {
+      "weapon": "MK18 \u98ce\u683c\u6b65\u67aa",
+      "yaw": -90,
+      "key": "idle",
+      "forward_cm": 0.0,
+      "right_cm": 0.0,
+      "start": "<Struct 'Vector' (0x000002034F4D8740) {x: 0.000000, y: 0.000000, z: 3101.000000}>",
+      "end": "<Struct 'Vector' (0x000002034F4D9730) {x: 0.000000, y: 0.000000, z: 3103.399998}>",
+      "velocity": "<Struct 'Vector' (0x000002034F4D9730) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "mode": "<MovementMode.MOVE_WALKING: 1>",
+      "root_motion": false,
+      "actor_yaw": -90.00000000000001,
+      "last_input": "<Struct 'Vector' (0x000002034F4D8DD0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "ok": true
+    }
+  ],
+  "active_contexts": {
+    "/Game/IMC_Default": null,
+    "/Game/Input/IMC_Default": null
+  },
+  "collision": {
+    "BP_ShooterCharacter_C_0": [
+      {
+        "name": "CollisionCylinder",
+        "profile": "Pawn",
+        "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+      },
+      {
+        "name": "Arrow",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      },
+      {
+        "name": "CharacterMesh0",
+        "profile": "CharacterMesh",
+        "enabled": "<CollisionEnabled.QUERY_ONLY: 1>"
+      },
+      {
+        "name": "FirstPersonMesh",
+        "profile": "CharacterMesh",
+        "enabled": "<CollisionEnabled.QUERY_ONLY: 1>"
+      },
+      {
+        "name": "CameraProxyMeshComponent_0",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      },
+      {
+        "name": "DrawFrustumComponent_0",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      },
+      {
+        "name": "CameraProxyMeshComponent_1",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      },
+      {
+        "name": "DrawFrustumComponent_1",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "BP_ShooterWeapon_Rifle_C_6": [
+      {
+        "name": "TP_Weapon",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      },
+      {
+        "name": "FP_Weapon",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "StaticMeshActor_1489": [
+      {
+        "name": "StaticMeshComponent0",
+        "profile": "Custom",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "StaticMeshActor_1490": [
+      {
+        "name": "StaticMeshComponent0",
+        "profile": "Custom",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "StaticMeshActor_1491": [
+      {
+        "name": "StaticMeshComponent0",
+        "profile": "Custom",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "StaticMeshActor_1492": [
+      {
+        "name": "StaticMeshComponent0",
+        "profile": "Custom",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "StaticMeshActor_1493": [
+      {
+        "name": "StaticMeshComponent0",
+        "profile": "Custom",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "SkeletalMeshActor_0": [
+      {
+        "name": "SkeletalMeshComponent0",
+        "profile": "Custom",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "StaticMeshActor_1494": [
+      {
+        "name": "StaticMeshComponent0",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "StaticMeshActor_1495": [
+      {
+        "name": "StaticMeshComponent0",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "StaticMeshActor_1496": [
+      {
+        "name": "StaticMeshComponent0",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ],
+    "StaticMeshActor_1497": [
+      {
+        "name": "StaticMeshComponent0",
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    ]
+  }
+}

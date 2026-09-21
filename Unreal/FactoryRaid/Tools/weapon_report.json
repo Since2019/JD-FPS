@@ -1,0 +1,12 @@
+{
+  "rows": [
+    "GrenadeLauncher",
+    "Pistol",
+    "Rifle"
+  ],
+  "table": "[\r\n\t{\r\n\t\t\"Name\": \"GrenadeLauncher\",\r\n\t\t\"Static Mesh\": \"/Game/Weapons/GrenadeLauncher/Meshes/SM_GrenadeLauncher.SM_GrenadeLauncher\",\r\n\t\t\"Spawn Actor\": \"/Game/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_GrenadeLauncher.BP_ShooterWeapon_GrenadeLauncher_C\"\r\n\t},\r\n\t{\r\n\t\t\"Name\": \"Pistol\",\r\n\t\t\"Static Mesh\": \"/Game/Weapons/Pistol/Meshes/SM_Pistol.SM_Pistol\",\r\n\t\t\"Spawn Actor\": \"/Game/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_Pistol.BP_ShooterWeapon_Pistol_C\"\r\n\t},\r\n\t{\r\n\t\t\"Name\": \"Rifle\",\r\n\t\t\"Static Mesh\": \"/Game/Weapons/Rifle/Meshes/SM_Rifle.SM_Rifle\",\r\n\t\t\"Spawn Actor\": \"/Game/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_Rifle.BP_ShooterWeapon_Rifle_C\"\r\n\t}\r\n]",
+  "Weapon Type": "<Struct 'DataTableRowHandle' (0x00000283C8F8A6E0) {data_table: \"/Script/Engine.DataTable'/Game/Variant_Shooter/Blueprints/Pickups/DT_WeaponList.DT_WeaponList'\", row_name: \"\"}>",
+  "Weapon Class": "<Object '/Game/Variant_Shooter/Blueprints/Pickups/BP_ShooterWeaponBase.BP_ShooterWeaponBase_C' (0x00000283C8218C00) Class 'BlueprintGeneratedClass'>",
+  "weapon_type": "Actor: Failed to find property 'weapon_type' for attribute 'weapon_type' on 'BP_ShooterPickup_C'",
+  "weapon_class": "Actor: Failed to find property 'weapon_class' for attribute 'weapon_class' on 'BP_ShooterPickup_C'"
+}

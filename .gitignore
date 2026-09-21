@@ -1,0 +1,21 @@
+/.godot/
+
+# Unreal Engine generated data
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+/Unreal/BuildCacheBeforeNative/
+.vs/
+*.sln
+*.suo
+*.VC.db
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local credentials and environment files
+.env
+.env.*
+!.env.example

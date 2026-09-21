@@ -1,0 +1,34 @@
+{
+  "SM_ScannedSnowField": {
+    "origin": [
+      0.0,
+      4000.0,
+      -26.38161313533783
+    ],
+    "extent": [
+      4000.0,
+      4000.0,
+      22.889974236488342
+    ]
+  },
+  "SM_ScannedSnowDrift": {
+    "origin": [
+      0.0,
+      0.0,
+      5.0
+    ],
+    "extent": [
+      160.0,
+      40.0,
+      5.0
+    ]
+  },
+  "rifle_triangles": {
+    "body": 7644,
+    "_bolt_a": 1906,
+    "_bolt_b": 1089,
+    "_scope": 6786,
+    "_trigger": 104,
+    "_wrap": 1836
+  }
+}
